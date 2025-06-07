@@ -1,0 +1,3764 @@
+{
+  "eight_day_cases": [
+    {
+      "case_index": 683,
+      "days": 8,
+      "miles": 795,
+      "receipts": 1645.99,
+      "actual": 644.69,
+      "naive_pred": 1347.0767176226548,
+      "error": 702.3867176226547
+    },
+    {
+      "case_index": 547,
+      "days": 8,
+      "miles": 482,
+      "receipts": 1411.49,
+      "actual": 631.81,
+      "naive_pred": 1224.7973371230162,
+      "error": 592.9873371230162
+    },
+    {
+      "case_index": 622,
+      "days": 8,
+      "miles": 801,
+      "receipts": 1241.21,
+      "actual": 1780.65,
+      "naive_pred": 1639.293473273809,
+      "error": 141.35652672619108
+    },
+    {
+      "case_index": 813,
+      "days": 8,
+      "miles": 829,
+      "receipts": 1147.89,
+      "actual": 2004.34,
+      "naive_pred": 1871.9791185281385,
+      "error": 132.36088147186138
+    },
+    {
+      "case_index": 760,
+      "days": 8,
+      "miles": 1142,
+      "receipts": 776.74,
+      "actual": 1827.44,
+      "naive_pred": 1722.9043564339827,
+      "error": 104.53564356601737
+    },
+    {
+      "case_index": 476,
+      "days": 8,
+      "miles": 1182,
+      "receipts": 990.07,
+      "actual": 1840.75,
+      "naive_pred": 1928.880390119048,
+      "error": 88.13039011904789
+    },
+    {
+      "case_index": 512,
+      "days": 8,
+      "miles": 1025,
+      "receipts": 1031.33,
+      "actual": 2214.64,
+      "naive_pred": 2128.554256516954,
+      "error": 86.08574348304592
+    },
+    {
+      "case_index": 603,
+      "days": 8,
+      "miles": 836,
+      "receipts": 735.52,
+      "actual": 1606.63,
+      "naive_pred": 1531.1182576370854,
+      "error": 75.51174236291467
+    },
+    {
+      "case_index": 220,
+      "days": 8,
+      "miles": 1173,
+      "receipts": 671.25,
+      "actual": 1419.34,
+      "naive_pred": 1484.217645762986,
+      "error": 64.87764576298605
+    },
+    {
+      "case_index": 751,
+      "days": 8,
+      "miles": 403,
+      "receipts": 654.97,
+      "actual": 895.14,
+      "naive_pred": 958.8371905555556,
+      "error": 63.69719055555561
+    },
+    {
+      "case_index": 135,
+      "days": 8,
+      "miles": 892,
+      "receipts": 1768.53,
+      "actual": 1902.37,
+      "naive_pred": 1849.3603431727993,
+      "error": 53.009656827200615
+    },
+    {
+      "case_index": 529,
+      "days": 8,
+      "miles": 1185,
+      "receipts": 554.98,
+      "actual": 1545.67,
+      "naive_pred": 1493.3802322222227,
+      "error": 52.28976777777734
+    },
+    {
+      "case_index": 374,
+      "days": 8,
+      "miles": 1159,
+      "receipts": 2175.27,
+      "actual": 1752.18,
+      "naive_pred": 1801.8189237543006,
+      "error": 49.63892375430055
+    },
+    {
+      "case_index": 179,
+      "days": 8,
+      "miles": 488,
+      "receipts": 439.7,
+      "actual": 1030.13,
+      "naive_pred": 983.6260449603174,
+      "error": 46.50395503968275
+    },
+    {
+      "case_index": 132,
+      "days": 8,
+      "miles": 891,
+      "receipts": 1194.36,
+      "actual": 2016.46,
+      "naive_pred": 1970.0365929329005,
+      "error": 46.42340706709956
+    },
+    {
+      "case_index": 992,
+      "days": 8,
+      "miles": 372,
+      "receipts": 348.37,
+      "actual": 950.24,
+      "naive_pred": 907.2704594642861,
+      "error": 42.96954053571392
+    },
+    {
+      "case_index": 715,
+      "days": 8,
+      "miles": 792,
+      "receipts": 2437.24,
+      "actual": 1556.7,
+      "naive_pred": 1515.837839478717,
+      "error": 40.86216052128316
+    },
+    {
+      "case_index": 494,
+      "days": 8,
+      "miles": 752,
+      "receipts": 1519.78,
+      "actual": 1662.92,
+      "naive_pred": 1622.9908697150074,
+      "error": 39.92913028499265
+    },
+    {
+      "case_index": 186,
+      "days": 8,
+      "miles": 817,
+      "receipts": 1455.73,
+      "actual": 1847.26,
+      "naive_pred": 1807.3611275396836,
+      "error": 39.8988724603164
+    },
+    {
+      "case_index": 116,
+      "days": 8,
+      "miles": 302.24,
+      "receipts": 1046.04,
+      "actual": 1353.77,
+      "naive_pred": 1391.480004603175,
+      "error": 37.71000460317509
+    },
+    {
+      "case_index": 43,
+      "days": 8,
+      "miles": 610,
+      "receipts": 208.29,
+      "actual": 841.27,
+      "naive_pred": 877.1898460335489,
+      "error": 35.91984603354888
+    },
+    {
+      "case_index": 239,
+      "days": 8,
+      "miles": 275,
+      "receipts": 2347.09,
+      "actual": 1454.47,
+      "naive_pred": 1488.8352842406207,
+      "error": 34.36528424062067
+    },
+    {
+      "case_index": 343,
+      "days": 8,
+      "miles": 7,
+      "receipts": 2075.6,
+      "actual": 1422.12,
+      "naive_pred": 1455.7730045436515,
+      "error": 33.653004543651605
+    },
+    {
+      "case_index": 213,
+      "days": 8,
+      "miles": 962,
+      "receipts": 1929.63,
+      "actual": 1897.19,
+      "naive_pred": 1863.5701093091627,
+      "error": 33.61989069083734
+    },
+    {
+      "case_index": 279,
+      "days": 8,
+      "miles": 1012,
+      "receipts": 2390.84,
+      "actual": 1732.12,
+      "naive_pred": 1765.0055610497834,
+      "error": 32.88556104978352
+    },
+    {
+      "case_index": 510,
+      "days": 8,
+      "miles": 888,
+      "receipts": 2296.07,
+      "actual": 1718.71,
+      "naive_pred": 1751.5082506601718,
+      "error": 32.79825066017179
+    },
+    {
+      "case_index": 161,
+      "days": 8,
+      "miles": 1005,
+      "receipts": 1391.37,
+      "actual": 1987.39,
+      "naive_pred": 1954.773280416666,
+      "error": 32.61671958333409
+    },
+    {
+      "case_index": 481,
+      "days": 8,
+      "miles": 592,
+      "receipts": 1402.98,
+      "actual": 1561.41,
+      "naive_pred": 1593.5568583459608,
+      "error": 32.14685834596071
+    },
+    {
+      "case_index": 918,
+      "days": 8,
+      "miles": 897,
+      "receipts": 1536.36,
+      "actual": 1944.62,
+      "naive_pred": 1913.178251607144,
+      "error": 31.44174839285597
+    },
+    {
+      "case_index": 994,
+      "days": 8,
+      "miles": 978,
+      "receipts": 710.43,
+      "actual": 1624.58,
+      "naive_pred": 1595.203128459596,
+      "error": 29.376871540403954
+    },
+    {
+      "case_index": 504,
+      "days": 8,
+      "miles": 562,
+      "receipts": 2479.33,
+      "actual": 1478.31,
+      "naive_pred": 1507.2734613419918,
+      "error": 28.963461341991888
+    },
+    {
+      "case_index": 667,
+      "days": 8,
+      "miles": 77,
+      "receipts": 1930.98,
+      "actual": 1485.69,
+      "naive_pred": 1514.5795416865076,
+      "error": 28.889541686507528
+    },
+    {
+      "case_index": 551,
+      "days": 8,
+      "miles": 323,
+      "receipts": 46.48,
+      "actual": 703.45,
+      "naive_pred": 732.2398163888886,
+      "error": 28.78981638888854
+    },
+    {
+      "case_index": 798,
+      "days": 8,
+      "miles": 34,
+      "receipts": 1225.2,
+      "actual": 1438.52,
+      "naive_pred": 1411.2077232738093,
+      "error": 27.312276726190703
+    },
+    {
+      "case_index": 117,
+      "days": 8,
+      "miles": 266.87,
+      "receipts": 252.08,
+      "actual": 880.41,
+      "naive_pred": 853.2171913059159,
+      "error": 27.19280869408408
+    },
+    {
+      "case_index": 191,
+      "days": 8,
+      "miles": 342,
+      "receipts": 2259.06,
+      "actual": 1502.02,
+      "naive_pred": 1529.2111613437955,
+      "error": 27.191161343795557
+    },
+    {
+      "case_index": 397,
+      "days": 8,
+      "miles": 200,
+      "receipts": 1508.89,
+      "actual": 1461.33,
+      "naive_pred": 1488.220067599206,
+      "error": 26.890067599206077
+    },
+    {
+      "case_index": 998,
+      "days": 8,
+      "miles": 413,
+      "receipts": 222.83,
+      "actual": 802.95,
+      "naive_pred": 828.1807789700578,
+      "error": 25.230778970057713
+    },
+    {
+      "case_index": 437,
+      "days": 8,
+      "miles": 312,
+      "receipts": 2383.17,
+      "actual": 1557.27,
+      "naive_pred": 1532.3415171230163,
+      "error": 24.928482876983708
+    },
+    {
+      "case_index": 872,
+      "days": 8,
+      "miles": 626,
+      "receipts": 545.84,
+      "actual": 1142.89,
+      "naive_pred": 1119.2249097510817,
+      "error": 23.665090248918432
+    },
+    {
+      "case_index": 586,
+      "days": 8,
+      "miles": 107,
+      "receipts": 2450.89,
+      "actual": 1468.19,
+      "naive_pred": 1491.1618550595224,
+      "error": 22.97185505952234
+    },
+    {
+      "case_index": 442,
+      "days": 8,
+      "miles": 75,
+      "receipts": 315.71,
+      "actual": 593.83,
+      "naive_pred": 616.6928629761903,
+      "error": 22.862862976190286
+    },
+    {
+      "case_index": 57,
+      "days": 8,
+      "miles": 467,
+      "receipts": 1178.71,
+      "actual": 1483.33,
+      "naive_pred": 1461.4526739213566,
+      "error": 21.877326078643364
+    },
+    {
+      "case_index": 963,
+      "days": 8,
+      "miles": 1053,
+      "receipts": 1864.01,
+      "actual": 1794.57,
+      "naive_pred": 1816.343182399683,
+      "error": 21.773182399683037
+    },
+    {
+      "case_index": 314,
+      "days": 8,
+      "miles": 466,
+      "receipts": 2064.63,
+      "actual": 1558.12,
+      "naive_pred": 1536.5555799819638,
+      "error": 21.564420018036117
+    },
+    {
+      "case_index": 831,
+      "days": 8,
+      "miles": 16,
+      "receipts": 259.02,
+      "actual": 543.56,
+      "naive_pred": 564.9060375000001,
+      "error": 21.346037500000193
+    },
+    {
+      "case_index": 605,
+      "days": 8,
+      "miles": 633,
+      "receipts": 1308.36,
+      "actual": 1639.12,
+      "naive_pred": 1619.0766398142148,
+      "error": 20.043360185785104
+    },
+    {
+      "case_index": 45,
+      "days": 8,
+      "miles": 435,
+      "receipts": 1129.65,
+      "actual": 1525.26,
+      "naive_pred": 1505.3751912193363,
+      "error": 19.88480878066366
+    },
+    {
+      "case_index": 746,
+      "days": 8,
+      "miles": 1009,
+      "receipts": 1378.07,
+      "actual": 1903.76,
+      "naive_pred": 1921.6088854365073,
+      "error": 17.848885436507317
+    },
+    {
+      "case_index": 120,
+      "days": 8,
+      "miles": 264.94,
+      "receipts": 720.67,
+      "actual": 1019.85,
+      "naive_pred": 1036.7820694246027,
+      "error": 16.932069424602673
+    },
+    {
+      "case_index": 845,
+      "days": 8,
+      "miles": 867,
+      "receipts": 2373.39,
+      "actual": 1747.22,
+      "naive_pred": 1731.367210930736,
+      "error": 15.852789069263963
+    },
+    {
+      "case_index": 115,
+      "days": 8,
+      "miles": 276.28,
+      "receipts": 1179.9,
+      "actual": 1522.6,
+      "naive_pred": 1506.8296828102452,
+      "error": 15.770317189754678
+    },
+    {
+      "case_index": 380,
+      "days": 8,
+      "miles": 621,
+      "receipts": 2391.34,
+      "actual": 1593.12,
+      "naive_pred": 1577.919403226913,
+      "error": 15.200596773087
+    },
+    {
+      "case_index": 302,
+      "days": 8,
+      "miles": 1090,
+      "receipts": 419.76,
+      "actual": 1189.47,
+      "naive_pred": 1203.6781369570715,
+      "error": 14.208136957071474
+    },
+    {
+      "case_index": 588,
+      "days": 8,
+      "miles": 945,
+      "receipts": 766.98,
+      "actual": 1625.53,
+      "naive_pred": 1611.9022684740257,
+      "error": 13.62773152597424
+    },
+    {
+      "case_index": 54,
+      "days": 8,
+      "miles": 630,
+      "receipts": 967.69,
+      "actual": 1388.05,
+      "naive_pred": 1401.2063977380956,
+      "error": 13.15639773809562
+    },
+    {
+      "case_index": 112,
+      "days": 8,
+      "miles": 297.64,
+      "receipts": 481.09,
+      "actual": 835.08,
+      "naive_pred": 847.5071568272006,
+      "error": 12.42715682720052
+    },
+    {
+      "case_index": 121,
+      "days": 8,
+      "miles": 161.15,
+      "receipts": 1230.37,
+      "actual": 1499.24,
+      "naive_pred": 1488.0194523892774,
+      "error": 11.220547610722633
+    },
+    {
+      "case_index": 573,
+      "days": 8,
+      "miles": 177,
+      "receipts": 486.06,
+      "actual": 751.58,
+      "naive_pred": 762.7031222366525,
+      "error": 11.12312223665242
+    },
+    {
+      "case_index": 752,
+      "days": 8,
+      "miles": 534,
+      "receipts": 429.88,
+      "actual": 916.02,
+      "naive_pred": 926.3826286904764,
+      "error": 10.362628690476413
+    },
+    {
+      "case_index": 472,
+      "days": 8,
+      "miles": 15,
+      "receipts": 377.85,
+      "actual": 657.8,
+      "naive_pred": 648.271627665945,
+      "error": 9.528372334055007
+    },
+    {
+      "case_index": 705,
+      "days": 8,
+      "miles": 221,
+      "receipts": 936.98,
+      "actual": 1287,
+      "naive_pred": 1277.5792928661615,
+      "error": 9.420707133838505
+    },
+    {
+      "case_index": 137,
+      "days": 8,
+      "miles": 1118,
+      "receipts": 1758.52,
+      "actual": 1852.47,
+      "naive_pred": 1861.587422962454,
+      "error": 9.11742296245393
+    },
+    {
+      "case_index": 40,
+      "days": 8,
+      "miles": 862,
+      "receipts": 1817.85,
+      "actual": 1719.37,
+      "naive_pred": 1727.8052027867955,
+      "error": 8.435202786795571
+    },
+    {
+      "case_index": 173,
+      "days": 8,
+      "miles": 123,
+      "receipts": 612.55,
+      "actual": 851.24,
+      "naive_pred": 842.854740048701,
+      "error": 8.385259951298963
+    },
+    {
+      "case_index": 431,
+      "days": 8,
+      "miles": 1187,
+      "receipts": 1045.91,
+      "actual": 2047.06,
+      "naive_pred": 2054.895337321428,
+      "error": 7.835337321428142
+    },
+    {
+      "case_index": 671,
+      "days": 8,
+      "miles": 392,
+      "receipts": 661.27,
+      "actual": 978.13,
+      "naive_pred": 985.2234794877346,
+      "error": 7.093479487734612
+    },
+    {
+      "case_index": 613,
+      "days": 8,
+      "miles": 544,
+      "receipts": 1279.51,
+      "actual": 1483.77,
+      "naive_pred": 1476.7045652579366,
+      "error": 7.065434742063417
+    },
+    {
+      "case_index": 745,
+      "days": 8,
+      "miles": 255,
+      "receipts": 1817.19,
+      "actual": 1510.91,
+      "naive_pred": 1503.9372018650795,
+      "error": 6.972798134920595
+    },
+    {
+      "case_index": 465,
+      "days": 8,
+      "miles": 207,
+      "receipts": 1146.93,
+      "actual": 1479.01,
+      "naive_pred": 1472.8922251724655,
+      "error": 6.117774827534504
+    },
+    {
+      "case_index": 750,
+      "days": 8,
+      "miles": 1134,
+      "receipts": 1049.84,
+      "actual": 2073.13,
+      "naive_pred": 2068.400889742062,
+      "error": 4.7291102579379185
+    },
+    {
+      "case_index": 952,
+      "days": 8,
+      "miles": 204,
+      "receipts": 2178.45,
+      "actual": 1506.38,
+      "naive_pred": 1510.877425618686,
+      "error": 4.497425618685838
+    },
+    {
+      "case_index": 938,
+      "days": 8,
+      "miles": 936,
+      "receipts": 556.28,
+      "actual": 1277.26,
+      "naive_pred": 1281.4025617983405,
+      "error": 4.142561798340466
+    },
+    {
+      "case_index": 267,
+      "days": 8,
+      "miles": 1166,
+      "receipts": 99.47,
+      "actual": 1149.07,
+      "naive_pred": 1153.0868047041854,
+      "error": 4.016804704185461
+    },
+    {
+      "case_index": 965,
+      "days": 8,
+      "miles": 916,
+      "receipts": 2417.62,
+      "actual": 1755.05,
+      "naive_pred": 1758.2205619246024,
+      "error": 3.1705619246024526
+    },
+    {
+      "case_index": 616,
+      "days": 8,
+      "miles": 1124,
+      "receipts": 1908.69,
+      "actual": 1833.27,
+      "naive_pred": 1830.1330792261913,
+      "error": 3.136920773808697
+    },
+    {
+      "case_index": 138,
+      "days": 8,
+      "miles": 1064,
+      "receipts": 1756.52,
+      "actual": 1857.04,
+      "naive_pred": 1859.6796073455712,
+      "error": 2.6396073455712212
+    },
+    {
+      "case_index": 423,
+      "days": 8,
+      "miles": 415,
+      "receipts": 1214.97,
+      "actual": 1473.75,
+      "naive_pred": 1476.299095958902,
+      "error": 2.549095958901944
+    },
+    {
+      "case_index": 703,
+      "days": 8,
+      "miles": 52,
+      "receipts": 2353.5,
+      "actual": 1485.05,
+      "naive_pred": 1482.5393248809514,
+      "error": 2.5106751190485284
+    },
+    {
+      "case_index": 832,
+      "days": 8,
+      "miles": 303,
+      "receipts": 1072.44,
+      "actual": 1453.25,
+      "naive_pred": 1450.8049906872286,
+      "error": 2.44500931277139
+    },
+    {
+      "case_index": 474,
+      "days": 8,
+      "miles": 638,
+      "receipts": 1007.48,
+      "actual": 1483.06,
+      "naive_pred": 1480.7990029671716,
+      "error": 2.2609970328283
+    },
+    {
+      "case_index": 587,
+      "days": 8,
+      "miles": 80,
+      "receipts": 1092.18,
+      "actual": 1365.73,
+      "naive_pred": 1365.0410505699851,
+      "error": 0.6889494300148726
+    }
+  ],
+  "cliff_analysis": [
+    {
+      "case_index": 0,
+      "receipts": 1.42,
+      "receipt_cents": 142,
+      "tier": 2,
+      "actual": 364.51,
+      "naive_pred": 358.5566512830225,
+      "error": 5.953348716977473
+    },
+    {
+      "case_index": 1,
+      "receipts": 3.6,
+      "receipt_cents": 360,
+      "tier": 5,
+      "actual": 126.06,
+      "naive_pred": 135.60864204725831,
+      "error": 9.548642047258312
+    },
+    {
+      "case_index": 2,
+      "receipts": 17.97,
+      "receipt_cents": 1797,
+      "tier": 28,
+      "actual": 128.91,
+      "naive_pred": 144.4959241504329,
+      "error": 15.585924150432902
+    },
+    {
+      "case_index": 3,
+      "receipts": 4.67,
+      "receipt_cents": 467,
+      "tier": 7,
+      "actual": 203.52,
+      "naive_pred": 216.53279547619067,
+      "error": 13.01279547619066
+    },
+    {
+      "case_index": 4,
+      "receipts": 5.78,
+      "receipt_cents": 578,
+      "tier": 9,
+      "actual": 380.37,
+      "naive_pred": 368.59403410409055,
+      "error": 11.77596589590945
+    },
+    {
+      "case_index": 5,
+      "receipts": 13.74,
+      "receipt_cents": 1374,
+      "tier": 21,
+      "actual": 158.35,
+      "naive_pred": 176.90574502344884,
+      "error": 18.55574502344885
+    },
+    {
+      "case_index": 6,
+      "receipts": 4.52,
+      "receipt_cents": 451,
+      "tier": 7,
+      "actual": 320.12,
+      "naive_pred": 303.3061051388893,
+      "error": 16.813894861110725
+    },
+    {
+      "case_index": 7,
+      "receipts": 22.71,
+      "receipt_cents": 2271,
+      "tier": 35,
+      "actual": 199.68,
+      "naive_pred": 207.1125836507938,
+      "error": 7.432583650793788
+    },
+    {
+      "case_index": 8,
+      "receipts": 21.17,
+      "receipt_cents": 2117,
+      "tier": 33,
+      "actual": 464.07,
+      "naive_pred": 398.9824710714285,
+      "error": 65.08752892857149
+    },
+    {
+      "case_index": 9,
+      "receipts": 21.99,
+      "receipt_cents": 2199,
+      "tier": 34,
+      "actual": 359.1,
+      "naive_pred": 377.29007937826066,
+      "error": 18.190079378260634
+    },
+    {
+      "case_index": 10,
+      "receipts": 21.24,
+      "receipt_cents": 2124,
+      "tier": 33,
+      "actual": 356.17,
+      "naive_pred": 345.4996890349927,
+      "error": 10.670310965007332
+    },
+    {
+      "case_index": 11,
+      "receipts": 21.05,
+      "receipt_cents": 2105,
+      "tier": 32,
+      "actual": 366.87,
+      "naive_pred": 362.562212675519,
+      "error": 4.307787324481012
+    },
+    {
+      "case_index": 12,
+      "receipts": 20.04,
+      "receipt_cents": 2004,
+      "tier": 31,
+      "actual": 204.58,
+      "naive_pred": 215.57275017857148,
+      "error": 10.99275017857147
+    },
+    {
+      "case_index": 13,
+      "receipts": 18.73,
+      "receipt_cents": 1873,
+      "tier": 29,
+      "actual": 430.86,
+      "naive_pred": 418.27576111111085,
+      "error": 12.58423888888916
+    },
+    {
+      "case_index": 14,
+      "receipts": 10.15,
+      "receipt_cents": 1015,
+      "tier": 15,
+      "actual": 195.14,
+      "naive_pred": 193.37907474567095,
+      "error": 1.7609252543290381
+    },
+    {
+      "case_index": 15,
+      "receipts": 5.86,
+      "receipt_cents": 586,
+      "tier": 9,
+      "actual": 117.24,
+      "naive_pred": 144.9163471861472,
+      "error": 27.676347186147197
+    },
+    {
+      "case_index": 16,
+      "receipts": 8.34,
+      "receipt_cents": 834,
+      "tier": 13,
+      "actual": 179.06,
+      "naive_pred": 191.49087034090905,
+      "error": 12.430870340909053
+    },
+    {
+      "case_index": 17,
+      "receipts": 8.31,
+      "receipt_cents": 831,
+      "tier": 12,
+      "actual": 120.65,
+      "naive_pred": 146.2762508170995,
+      "error": 25.626250817099503
+    },
+    {
+      "case_index": 18,
+      "receipts": 13.85,
+      "receipt_cents": 1385,
+      "tier": 21,
+      "actual": 234.2,
+      "naive_pred": 235.26774682900464,
+      "error": 1.0677468290046477
+    },
+    {
+      "case_index": 19,
+      "receipts": 17.43,
+      "receipt_cents": 1743,
+      "tier": 27,
+      "actual": 325.56,
+      "naive_pred": 303.47452094336217,
+      "error": 22.085479056637837
+    },
+    {
+      "case_index": 20,
+      "receipts": 306.9,
+      "receipt_cents": 30689,
+      "tier": 479,
+      "actual": 574.1,
+      "naive_pred": 569.6121855357143,
+      "error": 4.487814464285748
+    },
+    {
+      "case_index": 21,
+      "receipts": 1337.9,
+      "receipt_cents": 133790,
+      "tier": 2090,
+      "actual": 1443.96,
+      "naive_pred": 1405.188298313492,
+      "error": 38.771701686508095
+    },
+    {
+      "case_index": 22,
+      "receipts": 433.75,
+      "receipt_cents": 43375,
+      "tier": 677,
+      "actual": 869,
+      "naive_pred": 887.7987624603172,
+      "error": 18.79876246031722
+    },
+    {
+      "case_index": 23,
+      "receipts": 476.08,
+      "receipt_cents": 47608,
+      "tier": 743,
+      "actual": 1030.41,
+      "naive_pred": 995.2725010750358,
+      "error": 35.137498924964234
+    },
+    {
+      "case_index": 24,
+      "receipts": 1129.52,
+      "receipt_cents": 112952,
+      "tier": 1764,
+      "actual": 1654.62,
+      "naive_pred": 1623.553365694445,
+      "error": 31.066634305555
+    },
+    {
+      "case_index": 25,
+      "receipts": 464.94,
+      "receipt_cents": 46494,
+      "tier": 726,
+      "actual": 621.12,
+      "naive_pred": 691.8613087968973,
+      "error": 70.74130879689733
+    },
+    {
+      "case_index": 26,
+      "receipts": 511,
+      "receipt_cents": 51100,
+      "tier": 798,
+      "actual": 1139.94,
+      "naive_pred": 1044.288905337302,
+      "error": 95.65109466269814
+    },
+    {
+      "case_index": 27,
+      "receipts": 1448.55,
+      "receipt_cents": 144855,
+      "tier": 2263,
+      "actual": 1624.01,
+      "naive_pred": 1593.4319700000005,
+      "error": 30.578029999999444
+    },
+    {
+      "case_index": 28,
+      "receipts": 863.93,
+      "receipt_cents": 86393,
+      "tier": 1349,
+      "actual": 1231.67,
+      "naive_pred": 1239.3664047619045,
+      "error": 7.696404761904432
+    },
+    {
+      "case_index": 29,
+      "receipts": 952.39,
+      "receipt_cents": 95239,
+      "tier": 1488,
+      "actual": 1608.6,
+      "naive_pred": 1570.359543769841,
+      "error": 38.240456230159
+    },
+    {
+      "case_index": 30,
+      "receipts": 704.42,
+      "receipt_cents": 70442,
+      "tier": 1100,
+      "actual": 1045.96,
+      "naive_pred": 1057.210632967172,
+      "error": 11.250632967171896
+    },
+    {
+      "case_index": 31,
+      "receipts": 485.73,
+      "receipt_cents": 48573,
+      "tier": 758,
+      "actual": 991.49,
+      "naive_pred": 983.9371219877336,
+      "error": 7.552878012266433
+    },
+    {
+      "case_index": 32,
+      "receipts": 1173.79,
+      "receipt_cents": 117379,
+      "tier": 1834,
+      "actual": 1485.59,
+      "naive_pred": 1421.5714472510822,
+      "error": 64.01855274891773
+    },
+    {
+      "case_index": 33,
+      "receipts": 219.98,
+      "receipt_cents": 21998,
+      "tier": 343,
+      "actual": 788.62,
+      "naive_pred": 790.1201847374846,
+      "error": 1.5001847374845738
+    },
+    {
+      "case_index": 34,
+      "receipts": 407.43,
+      "receipt_cents": 40743,
+      "tier": 636,
+      "actual": 1063.46,
+      "naive_pred": 1009.0151875595236,
+      "error": 54.444812440476426
+    },
+    {
+      "case_index": 35,
+      "receipts": 128.94,
+      "receipt_cents": 12894,
+      "tier": 201,
+      "actual": 686.54,
+      "naive_pred": 701.4407775396824,
+      "error": 14.900777539682394
+    },
+    {
+      "case_index": 36,
+      "receipts": 967,
+      "receipt_cents": 96700,
+      "tier": 1510,
+      "actual": 1368.94,
+      "naive_pred": 1329.6426069336221,
+      "error": 39.297393066377936
+    },
+    {
+      "case_index": 37,
+      "receipts": 290.78,
+      "receipt_cents": 29077,
+      "tier": 454,
+      "actual": 742.25,
+      "naive_pred": 764.0374219841273,
+      "error": 21.787421984127263
+    },
+    {
+      "case_index": 38,
+      "receipts": 848.75,
+      "receipt_cents": 84875,
+      "tier": 1326,
+      "actual": 1468.46,
+      "naive_pred": 1408.2176078174598,
+      "error": 60.24239218254024
+    },
+    {
+      "case_index": 39,
+      "receipts": 873.75,
+      "receipt_cents": 87375,
+      "tier": 1365,
+      "actual": 1185.24,
+      "naive_pred": 1128.6417535263347,
+      "error": 56.59824647366531
+    },
+    {
+      "case_index": 40,
+      "receipts": 1817.85,
+      "receipt_cents": 181785,
+      "tier": 2840,
+      "actual": 1719.37,
+      "naive_pred": 1727.8052027867955,
+      "error": 8.435202786795571
+    },
+    {
+      "case_index": 41,
+      "receipts": 1994.33,
+      "receipt_cents": 199433,
+      "tier": 3116,
+      "actual": 1779.12,
+      "naive_pred": 1812.0626260173156,
+      "error": 32.94262601731566
+    },
+    {
+      "case_index": 42,
+      "receipts": 186.69,
+      "receipt_cents": 18669,
+      "tier": 291,
+      "actual": 1085.4,
+      "naive_pred": 1045.029508627345,
+      "error": 40.370491372655124
+    },
+    {
+      "case_index": 43,
+      "receipts": 208.29,
+      "receipt_cents": 20829,
+      "tier": 325,
+      "actual": 841.27,
+      "naive_pred": 877.1898460335489,
+      "error": 35.91984603354888
+    },
+    {
+      "case_index": 44,
+      "receipts": 1103.21,
+      "receipt_cents": 110321,
+      "tier": 1723,
+      "actual": 1618.13,
+      "naive_pred": 1622.5419074098127,
+      "error": 4.411907409812557
+    },
+    {
+      "case_index": 45,
+      "receipts": 1129.65,
+      "receipt_cents": 112965,
+      "tier": 1765,
+      "actual": 1525.26,
+      "naive_pred": 1505.3751912193363,
+      "error": 19.88480878066366
+    },
+    {
+      "case_index": 46,
+      "receipts": 1203.45,
+      "receipt_cents": 120345,
+      "tier": 1880,
+      "actual": 1561.63,
+      "naive_pred": 1546.6396590963195,
+      "error": 14.99034090368059
+    },
+    {
+      "case_index": 47,
+      "receipts": 1159.18,
+      "receipt_cents": 115918,
+      "tier": 1811,
+      "actual": 1752.72,
+      "naive_pred": 1776.4392211652241,
+      "error": 23.7192211652241
+    },
+    {
+      "case_index": 48,
+      "receipts": 1036.91,
+      "receipt_cents": 103691,
+      "tier": 1620,
+      "actual": 2098.07,
+      "naive_pred": 2028.421794107142,
+      "error": 69.64820589285819
+    },
+    {
+      "case_index": 49,
+      "receipts": 2066.62,
+      "receipt_cents": 206662,
+      "tier": 3229,
+      "actual": 1624.11,
+      "naive_pred": 1593.2743407142864,
+      "error": 30.83565928571352
+    },
+    {
+      "case_index": 50,
+      "receipts": 2013.7,
+      "receipt_cents": 201370,
+      "tier": 3146,
+      "actual": 1752.03,
+      "naive_pred": 1769.6284297023806,
+      "error": 17.5984297023806
+    },
+    {
+      "case_index": 51,
+      "receipts": 1483.39,
+      "receipt_cents": 148339,
+      "tier": 2317,
+      "actual": 2024.2,
+      "naive_pred": 1947.418578564214,
+      "error": 76.78142143578611
+    },
+    {
+      "case_index": 52,
+      "receipts": 1929.94,
+      "receipt_cents": 192994,
+      "tier": 3015,
+      "actual": 1624.87,
+      "naive_pred": 1623.5715569408367,
+      "error": 1.298443059163219
+    },
+    {
+      "case_index": 53,
+      "receipts": 1343.97,
+      "receipt_cents": 134397,
+      "tier": 2099,
+      "actual": 1953.03,
+      "naive_pred": 1921.4525727579367,
+      "error": 31.577427242063322
+    },
+    {
+      "case_index": 54,
+      "receipts": 967.69,
+      "receipt_cents": 96769,
+      "tier": 1512,
+      "actual": 1388.05,
+      "naive_pred": 1401.2063977380956,
+      "error": 13.15639773809562
+    },
+    {
+      "case_index": 55,
+      "receipts": 696,
+      "receipt_cents": 69600,
+      "tier": 1087,
+      "actual": 1505.19,
+      "naive_pred": 1527.0588330753963,
+      "error": 21.868833075396196
+    },
+    {
+      "case_index": 56,
+      "receipts": 745.89,
+      "receipt_cents": 74589,
+      "tier": 1165,
+      "actual": 1037.45,
+      "naive_pred": 1071.285867907648,
+      "error": 33.83586790764798
+    },
+    {
+      "case_index": 57,
+      "receipts": 1178.71,
+      "receipt_cents": 117871,
+      "tier": 1841,
+      "actual": 1483.33,
+      "naive_pred": 1461.4526739213566,
+      "error": 21.877326078643364
+    },
+    {
+      "case_index": 58,
+      "receipts": 461.07,
+      "receipt_cents": 46107,
+      "tier": 720,
+      "actual": 1110.6,
+      "naive_pred": 1112.7377156150794,
+      "error": 2.1377156150795145
+    },
+    {
+      "case_index": 59,
+      "receipts": 1764.97,
+      "receipt_cents": 176497,
+      "tier": 2757,
+      "actual": 1694.37,
+      "naive_pred": 1769.546842101371,
+      "error": 75.17684210137122
+    },
+    {
+      "case_index": 60,
+      "receipts": 591.35,
+      "receipt_cents": 59135,
+      "tier": 923,
+      "actual": 1339.72,
+      "naive_pred": 1282.9034786507939,
+      "error": 56.81652134920614
+    },
+    {
+      "case_index": 61,
+      "receipts": 54.24,
+      "receipt_cents": 5424,
+      "tier": 84,
+      "actual": 715.19,
+      "naive_pred": 672.0121986309526,
+      "error": 43.177801369047415
+    },
+    {
+      "case_index": 62,
+      "receipts": 747.14,
+      "receipt_cents": 74714,
+      "tier": 1167,
+      "actual": 1216.36,
+      "naive_pred": 1208.5960003769844,
+      "error": 7.763999623015479
+    },
+    {
+      "case_index": 63,
+      "receipts": 341.45,
+      "receipt_cents": 34145,
+      "tier": 533,
+      "actual": 813.95,
+      "naive_pred": 783.2965638762623,
+      "error": 30.65343612373772
+    },
+    {
+      "case_index": 64,
+      "receipts": 873.33,
+      "receipt_cents": 87333,
+      "tier": 1364,
+      "actual": 1502.49,
+      "naive_pred": 1439.5363958531746,
+      "error": 62.953604146825455
+    },
+    {
+      "case_index": 65,
+      "receipts": 651.64,
+      "receipt_cents": 65164,
+      "tier": 1018,
+      "actual": 1237.71,
+      "naive_pred": 1203.334220901876,
+      "error": 34.375779098123985
+    },
+    {
+      "case_index": 66,
+      "receipts": 450.85,
+      "receipt_cents": 45085,
+      "tier": 704,
+      "actual": 743.94,
+      "naive_pred": 761.1494949567096,
+      "error": 17.20949495670959
+    },
+    {
+      "case_index": 67,
+      "receipts": 1184.23,
+      "receipt_cents": 118423,
+      "tier": 1850,
+      "actual": 1364.54,
+      "naive_pred": 1397.0167169841268,
+      "error": 32.476716984126824
+    },
+    {
+      "case_index": 68,
+      "receipts": 865.37,
+      "receipt_cents": 86537,
+      "tier": 1352,
+      "actual": 1251.14,
+      "naive_pred": 1191.1605099711405,
+      "error": 59.97949002885957
+    },
+    {
+      "case_index": 69,
+      "receipts": 241.73,
+      "receipt_cents": 24173,
+      "tier": 377,
+      "actual": 971.31,
+      "naive_pred": 1000.1971229347038,
+      "error": 28.887122934703825
+    },
+    {
+      "case_index": 70,
+      "receipts": 148.16,
+      "receipt_cents": 14816,
+      "tier": 231,
+      "actual": 905.79,
+      "naive_pred": 880.2453136435784,
+      "error": 25.544686356421607
+    },
+    {
+      "case_index": 71,
+      "receipts": 740.33,
+      "receipt_cents": 74033,
+      "tier": 1156,
+      "actual": 1048.28,
+      "naive_pred": 957.5755330952383,
+      "error": 90.70446690476172
+    },
+    {
+      "case_index": 72,
+      "receipts": 1191.4,
+      "receipt_cents": 119140,
+      "tier": 1861,
+      "actual": 1515.99,
+      "naive_pred": 1499.5988377553006,
+      "error": 16.391162244699444
+    },
+    {
+      "case_index": 73,
+      "receipts": 530.19,
+      "receipt_cents": 53019,
+      "tier": 828,
+      "actual": 1120.1,
+      "naive_pred": 1111.9480547132034,
+      "error": 8.15194528679649
+    },
+    {
+      "case_index": 74,
+      "receipts": 97.89,
+      "receipt_cents": 9789,
+      "tier": 152,
+      "actual": 539.36,
+      "naive_pred": 538.332746309524,
+      "error": 1.027253690475959
+    },
+    {
+      "case_index": 75,
+      "receipts": 497.7,
+      "receipt_cents": 49770,
+      "tier": 777,
+      "actual": 644.12,
+      "naive_pred": 619.8990478571428,
+      "error": 24.220952142857186
+    },
+    {
+      "case_index": 76,
+      "receipts": 1127.87,
+      "receipt_cents": 112786,
+      "tier": 1762,
+      "actual": 1809.91,
+      "naive_pred": 1793.5074228571432,
+      "error": 16.4025771428569
+    },
+    {
+      "case_index": 77,
+      "receipts": 923,
+      "receipt_cents": 92300,
+      "tier": 1442,
+      "actual": 1050.05,
+      "naive_pred": 1043.2666113239532,
+      "error": 6.783388676046798
+    },
+    {
+      "case_index": 78,
+      "receipts": 741.82,
+      "receipt_cents": 74182,
+      "tier": 1159,
+      "actual": 866.07,
+      "naive_pred": 806.6530832287156,
+      "error": 59.41691677128449
+    },
+    {
+      "case_index": 79,
+      "receipts": 1160.92,
+      "receipt_cents": 116092,
+      "tier": 1813,
+      "actual": 1459.34,
+      "naive_pred": 1418.5155070977623,
+      "error": 40.82449290223758
+    },
+    {
+      "case_index": 80,
+      "receipts": 619.49,
+      "receipt_cents": 61949,
+      "tier": 967,
+      "actual": 676.38,
+      "naive_pred": 867.4485701533191,
+      "error": 191.06857015331911
+    },
+    {
+      "case_index": 81,
+      "receipts": 818.99,
+      "receipt_cents": 81899,
+      "tier": 1279,
+      "actual": 628.4,
+      "naive_pred": 798.617352287157,
+      "error": 170.21735228715704
+    },
+    {
+      "case_index": 82,
+      "receipts": 396.49,
+      "receipt_cents": 39649,
+      "tier": 619,
+      "actual": 198.42,
+      "naive_pred": 268.3465817460316,
+      "error": 69.92658174603159
+    },
+    {
+      "case_index": 83,
+      "receipts": 555.49,
+      "receipt_cents": 55549,
+      "tier": 867,
+      "actual": 162.18,
+      "naive_pred": 309.8272343253967,
+      "error": 147.6472343253967
+    },
+    {
+      "case_index": 84,
+      "receipts": 474.99,
+      "receipt_cents": 47499,
+      "tier": 742,
+      "actual": 831.96,
+      "naive_pred": 894.8321961507936,
+      "error": 62.87219615079357
+    },
+    {
+      "case_index": 85,
+      "receipts": 389.49,
+      "receipt_cents": 38949,
+      "tier": 608,
+      "actual": 415.96,
+      "naive_pred": 513.7885156944445,
+      "error": 97.82851569444455
+    },
+    {
+      "case_index": 86,
+      "receipts": 348.49,
+      "receipt_cents": 34849,
+      "tier": 544,
+      "actual": 913.29,
+      "naive_pred": 910.9717466071421,
+      "error": 2.318253392857855
+    },
+    {
+      "case_index": 87,
+      "receipts": 413.99,
+      "receipt_cents": 41399,
+      "tier": 646,
+      "actual": 355.57,
+      "naive_pred": 388.2028212662335,
+      "error": 32.63282126623352
+    },
+    {
+      "case_index": 88,
+      "receipts": 495.49,
+      "receipt_cents": 49549,
+      "tier": 774,
+      "actual": 290.36,
+      "naive_pred": 450.87069704365064,
+      "error": 160.51069704365062
+    },
+    {
+      "case_index": 89,
+      "receipts": 489.99,
+      "receipt_cents": 48999,
+      "tier": 765,
+      "actual": 765.13,
+      "naive_pred": 888.6048931836217,
+      "error": 123.4748931836217
+    },
+    {
+      "case_index": 90,
+      "receipts": 813.85,
+      "receipt_cents": 81385,
+      "tier": 1271,
+      "actual": 707.88,
+      "naive_pred": 693.7289630176763,
+      "error": 14.151036982323717
+    },
+    {
+      "case_index": 91,
+      "receipts": 540.03,
+      "receipt_cents": 54003,
+      "tier": 843,
+      "actual": 848.42,
+      "naive_pred": 871.037631205739,
+      "error": 22.61763120573903
+    },
+    {
+      "case_index": 92,
+      "receipts": 187.52,
+      "receipt_cents": 18752,
+      "tier": 293,
+      "actual": 764.64,
+      "naive_pred": 768.5183146446606,
+      "error": 3.878314644660577
+    },
+    {
+      "case_index": 93,
+      "receipts": 221.15,
+      "receipt_cents": 22115,
+      "tier": 345,
+      "actual": 255.57,
+      "naive_pred": 264.6563708892494,
+      "error": 9.086370889249395
+    },
+    {
+      "case_index": 94,
+      "receipts": 749.19,
+      "receipt_cents": 74919,
+      "tier": 1170,
+      "actual": 636.51,
+      "naive_pred": 651.3497134325395,
+      "error": 14.839713432539497
+    },
+    {
+      "case_index": 95,
+      "receipts": 159.26,
+      "receipt_cents": 15926,
+      "tier": 248,
+      "actual": 303.94,
+      "naive_pred": 308.93312678571436,
+      "error": 4.993126785714367
+    },
+    {
+      "case_index": 96,
+      "receipts": 830.72,
+      "receipt_cents": 83072,
+      "tier": 1298,
+      "actual": 1165.44,
+      "naive_pred": 1075.7846240873018,
+      "error": 89.65537591269822
+    },
+    {
+      "case_index": 97,
+      "receipts": 347.54,
+      "receipt_cents": 34754,
+      "tier": 543,
+      "actual": 625.15,
+      "naive_pred": 600.902231082251,
+      "error": 24.247768917749
+    },
+    {
+      "case_index": 98,
+      "receipts": 388.5,
+      "receipt_cents": 38850,
+      "tier": 607,
+      "actual": 693.36,
+      "naive_pred": 756.0596113275615,
+      "error": 62.699611327561456
+    },
+    {
+      "case_index": 99,
+      "receipts": 285.5,
+      "receipt_cents": 28550,
+      "tier": 446,
+      "actual": 331.74,
+      "naive_pred": 317.3964463293651,
+      "error": 14.34355367063489
+    }
+  ],
+  "wrap_analysis": [
+    {
+      "case_index": 49,
+      "receipts": 2066.62,
+      "receipt_cents": 206662,
+      "wrap_value": 1862,
+      "actual": 1624.11,
+      "naive_pred": 1593.2743407142864,
+      "error": 30.83565928571352
+    },
+    {
+      "case_index": 50,
+      "receipts": 2013.7,
+      "receipt_cents": 201370,
+      "wrap_value": 666,
+      "actual": 1752.03,
+      "naive_pred": 1769.6284297023806,
+      "error": 17.5984297023806
+    },
+    {
+      "case_index": 150,
+      "receipts": 2476.41,
+      "receipt_cents": 247641,
+      "wrap_value": 1881,
+      "actual": 1662.88,
+      "naive_pred": 1666.1606550919907,
+      "error": 3.2806550919906385
+    },
+    {
+      "case_index": 151,
+      "receipts": 2321.49,
+      "receipt_cents": 232148,
+      "wrap_value": 2772,
+      "actual": 322,
+      "naive_pred": 955.6755932882397,
+      "error": 633.6755932882397
+    },
+    {
+      "case_index": 154,
+      "receipts": 2076.65,
+      "receipt_cents": 207665,
+      "wrap_value": 2865,
+      "actual": 1171.68,
+      "naive_pred": 1053.103926289683,
+      "error": 118.57607371031713
+    },
+    {
+      "case_index": 155,
+      "receipts": 2152.66,
+      "receipt_cents": 215266,
+      "wrap_value": 2274,
+      "actual": 1434.71,
+      "naive_pred": 1435.40086093254,
+      "error": 0.6908609325398629
+    },
+    {
+      "case_index": 156,
+      "receipts": 2170.53,
+      "receipt_cents": 217053,
+      "wrap_value": 4061,
+      "actual": 1374.91,
+      "naive_pred": 1366.3718912067106,
+      "error": 8.538108793289439
+    },
+    {
+      "case_index": 163,
+      "receipts": 2367.63,
+      "receipt_cents": 236763,
+      "wrap_value": 3291,
+      "actual": 1743.85,
+      "naive_pred": 1740.6370248611115,
+      "error": 3.212975138888396
+    },
+    {
+      "case_index": 167,
+      "receipts": 2390.92,
+      "receipt_cents": 239092,
+      "wrap_value": 1524,
+      "actual": 1760,
+      "naive_pred": 1778.525198540765,
+      "error": 18.525198540764904
+    },
+    {
+      "case_index": 169,
+      "receipts": 2400.13,
+      "receipt_cents": 240013,
+      "wrap_value": 2445,
+      "actual": 1411.95,
+      "naive_pred": 1443.052153023088,
+      "error": 31.10215302308802
+    },
+    {
+      "case_index": 174,
+      "receipts": 2463.92,
+      "receipt_cents": 246392,
+      "wrap_value": 632,
+      "actual": 1413.52,
+      "naive_pred": 1364.0600366612553,
+      "error": 49.45996333874473
+    },
+    {
+      "case_index": 176,
+      "receipts": 2196.84,
+      "receipt_cents": 219684,
+      "wrap_value": 2596,
+      "actual": 1439.17,
+      "naive_pred": 1402.9567395490626,
+      "error": 36.21326045093747
+    },
+    {
+      "case_index": 182,
+      "receipts": 2390.7,
+      "receipt_cents": 239069,
+      "wrap_value": 1501,
+      "actual": 1342.39,
+      "naive_pred": 1382.3314416973299,
+      "error": 39.941441697329765
+    },
+    {
+      "case_index": 185,
+      "receipts": 2091.79,
+      "receipt_cents": 209179,
+      "wrap_value": 283,
+      "actual": 1568.41,
+      "naive_pred": 1578.609857873377,
+      "error": 10.199857873376914
+    },
+    {
+      "case_index": 191,
+      "receipts": 2259.06,
+      "receipt_cents": 225906,
+      "wrap_value": 626,
+      "actual": 1502.02,
+      "naive_pred": 1529.2111613437955,
+      "error": 27.191161343795557
+    },
+    {
+      "case_index": 198,
+      "receipts": 2273.6,
+      "receipt_cents": 227360,
+      "wrap_value": 2080,
+      "actual": 1220.35,
+      "naive_pred": 1226.642734543651,
+      "error": 6.292734543651022
+    },
+    {
+      "case_index": 199,
+      "receipts": 2072.39,
+      "receipt_cents": 207239,
+      "wrap_value": 2439,
+      "actual": 1586.22,
+      "naive_pred": 1604.085725849567,
+      "error": 17.86572584956707
+    },
+    {
+      "case_index": 200,
+      "receipts": 2054.02,
+      "receipt_cents": 205402,
+      "wrap_value": 602,
+      "actual": 1779.08,
+      "naive_pred": 1796.9952199729428,
+      "error": 17.91521997294285
+    },
+    {
+      "case_index": 207,
+      "receipts": 2355.34,
+      "receipt_cents": 235534,
+      "wrap_value": 2062,
+      "actual": 1699.56,
+      "naive_pred": 1699.9421003174602,
+      "error": 0.38210031746029927
+    },
+    {
+      "case_index": 210,
+      "receipts": 2265.21,
+      "receipt_cents": 226521,
+      "wrap_value": 1241,
+      "actual": 1739.18,
+      "naive_pred": 1724.0781010714281,
+      "error": 15.101898928571927
+    },
+    {
+      "case_index": 215,
+      "receipts": 2272.75,
+      "receipt_cents": 227275,
+      "wrap_value": 1995,
+      "actual": 1873.94,
+      "naive_pred": 1843.894019550866,
+      "error": 30.04598044913405
+    },
+    {
+      "case_index": 218,
+      "receipts": 2177.18,
+      "receipt_cents": 217717,
+      "wrap_value": 629,
+      "actual": 1567.43,
+      "naive_pred": 1619.4648815043286,
+      "error": 52.034881504328496
+    },
+    {
+      "case_index": 219,
+      "receipts": 2110.9,
+      "receipt_cents": 211090,
+      "wrap_value": 2194,
+      "actual": 1520.73,
+      "naive_pred": 1517.083985434704,
+      "error": 3.6460145652961273
+    },
+    {
+      "case_index": 222,
+      "receipts": 2008.83,
+      "receipt_cents": 200883,
+      "wrap_value": 179,
+      "actual": 1539.47,
+      "naive_pred": 1531.0601843019474,
+      "error": 8.409815698052626
+    },
+    {
+      "case_index": 232,
+      "receipts": 2164.1,
+      "receipt_cents": 216410,
+      "wrap_value": 3418,
+      "actual": 1839.67,
+      "naive_pred": 1837.824105813492,
+      "error": 1.845894186508076
+    },
+    {
+      "case_index": 233,
+      "receipts": 2275.59,
+      "receipt_cents": 227559,
+      "wrap_value": 2279,
+      "actual": 1599.27,
+      "naive_pred": 1617.5148995634922,
+      "error": 18.244899563492254
+    },
+    {
+      "case_index": 237,
+      "receipts": 2401.28,
+      "receipt_cents": 240128,
+      "wrap_value": 2560,
+      "actual": 1698,
+      "naive_pred": 1691.9991651334772,
+      "error": 6.000834866522837
+    },
+    {
+      "case_index": 239,
+      "receipts": 2347.09,
+      "receipt_cents": 234709,
+      "wrap_value": 1237,
+      "actual": 1454.47,
+      "naive_pred": 1488.8352842406207,
+      "error": 34.36528424062067
+    },
+    {
+      "case_index": 241,
+      "receipts": 2489.69,
+      "receipt_cents": 248969,
+      "wrap_value": 3209,
+      "actual": 1894.16,
+      "naive_pred": 1894.0612893722948,
+      "error": 0.09871062770525896
+    },
+    {
+      "case_index": 246,
+      "receipts": 2503.46,
+      "receipt_cents": 250346,
+      "wrap_value": 490,
+      "actual": 1206.95,
+      "naive_pred": 1171.7968772420638,
+      "error": 35.15312275793622
+    },
+    {
+      "case_index": 250,
+      "receipts": 2358.41,
+      "receipt_cents": 235841,
+      "wrap_value": 2369,
+      "actual": 1819.41,
+      "naive_pred": 1847.995395753968,
+      "error": 28.585395753967987
+    },
+    {
+      "case_index": 252,
+      "receipts": 2209.44,
+      "receipt_cents": 220944,
+      "wrap_value": 3856,
+      "actual": 1434.84,
+      "naive_pred": 1448.9298609722225,
+      "error": 14.089860972222596
+    },
+    {
+      "case_index": 256,
+      "receipts": 2367.12,
+      "receipt_cents": 236712,
+      "wrap_value": 3240,
+      "actual": 1640.78,
+      "naive_pred": 1612.8056868235933,
+      "error": 27.974313176406667
+    },
+    {
+      "case_index": 257,
+      "receipts": 2183.11,
+      "receipt_cents": 218311,
+      "wrap_value": 1223,
+      "actual": 1559.59,
+      "naive_pred": 1577.2394551244593,
+      "error": 17.649455124459337
+    },
+    {
+      "case_index": 260,
+      "receipts": 2194.42,
+      "receipt_cents": 219442,
+      "wrap_value": 2354,
+      "actual": 1615.13,
+      "naive_pred": 1604.772028874459,
+      "error": 10.357971125541098
+    },
+    {
+      "case_index": 263,
+      "receipts": 2246.28,
+      "receipt_cents": 224628,
+      "wrap_value": 3444,
+      "actual": 1120.22,
+      "naive_pred": 1121.7612830555559,
+      "error": 1.541283055555823
+    },
+    {
+      "case_index": 265,
+      "receipts": 2166.02,
+      "receipt_cents": 216602,
+      "wrap_value": 3610,
+      "actual": 1775.03,
+      "naive_pred": 1797.207130930736,
+      "error": 22.177130930735984
+    },
+    {
+      "case_index": 279,
+      "receipts": 2390.84,
+      "receipt_cents": 239084,
+      "wrap_value": 1516,
+      "actual": 1732.12,
+      "naive_pred": 1765.0055610497834,
+      "error": 32.88556104978352
+    },
+    {
+      "case_index": 280,
+      "receipts": 2224.29,
+      "receipt_cents": 222429,
+      "wrap_value": 1245,
+      "actual": 1913.87,
+      "naive_pred": 1850.8116127976193,
+      "error": 63.05838720238057
+    },
+    {
+      "case_index": 283,
+      "receipts": 2272.56,
+      "receipt_cents": 227256,
+      "wrap_value": 1976,
+      "actual": 1642.15,
+      "naive_pred": 1626.3060940349924,
+      "error": 15.843905965007707
+    },
+    {
+      "case_index": 285,
+      "receipts": 2178.16,
+      "receipt_cents": 217816,
+      "wrap_value": 728,
+      "actual": 1447.95,
+      "naive_pred": 1441.1578388181242,
+      "error": 6.7921611818758265
+    },
+    {
+      "case_index": 286,
+      "receipts": 2491.82,
+      "receipt_cents": 249182,
+      "wrap_value": 3422,
+      "actual": 1792.31,
+      "naive_pred": 1804.6039599206335,
+      "error": 12.293959920633597
+    },
+    {
+      "case_index": 292,
+      "receipts": 2067.8,
+      "receipt_cents": 206780,
+      "wrap_value": 1980,
+      "actual": 1987.44,
+      "naive_pred": 1971.34716542749,
+      "error": 16.092834572510128
+    },
+    {
+      "case_index": 297,
+      "receipts": 2489.13,
+      "receipt_cents": 248913,
+      "wrap_value": 3153,
+      "actual": 1921.16,
+      "naive_pred": 1900.4236896428577,
+      "error": 20.73631035714243
+    },
+    {
+      "case_index": 303,
+      "receipts": 2269.89,
+      "receipt_cents": 226989,
+      "wrap_value": 1709,
+      "actual": 1943.24,
+      "naive_pred": 1939.7800116586202,
+      "error": 3.4599883413798125
+    },
+    {
+      "case_index": 312,
+      "receipts": 2241.5,
+      "receipt_cents": 224150,
+      "wrap_value": 2966,
+      "actual": 1839.47,
+      "naive_pred": 1869.9130197222228,
+      "error": 30.443019722222743
+    },
+    {
+      "case_index": 313,
+      "receipts": 2055.97,
+      "receipt_cents": 205596,
+      "wrap_value": 796,
+      "actual": 1497.46,
+      "naive_pred": 1499.6566072781382,
+      "error": 2.196607278138117
+    },
+    {
+      "case_index": 314,
+      "receipts": 2064.63,
+      "receipt_cents": 206463,
+      "wrap_value": 1663,
+      "actual": 1558.12,
+      "naive_pred": 1536.5555799819638,
+      "error": 21.564420018036117
+    },
+    {
+      "case_index": 317,
+      "receipts": 2477.98,
+      "receipt_cents": 247798,
+      "wrap_value": 2038,
+      "actual": 1842.24,
+      "naive_pred": 1872.6621295905486,
+      "error": 30.422129590548593
+    },
+    {
+      "case_index": 318,
+      "receipts": 2464.29,
+      "receipt_cents": 246429,
+      "wrap_value": 669,
+      "actual": 1611.66,
+      "naive_pred": 1648.0213556006486,
+      "error": 36.361355600648494
+    },
+    {
+      "case_index": 327,
+      "receipts": 2171.07,
+      "receipt_cents": 217107,
+      "wrap_value": 19,
+      "actual": 1421.36,
+      "naive_pred": 1386.5666674963923,
+      "error": 34.793332503607644
+    },
+    {
+      "case_index": 331,
+      "receipts": 2116.93,
+      "receipt_cents": 211692,
+      "wrap_value": 2796,
+      "actual": 1349.04,
+      "naive_pred": 1299.0196963257576,
+      "error": 50.020303674242314
+    },
+    {
+      "case_index": 332,
+      "receipts": 2105.36,
+      "receipt_cents": 210536,
+      "wrap_value": 1640,
+      "actual": 1844.58,
+      "naive_pred": 1850.603589768009,
+      "error": 6.02358976800906
+    },
+    {
+      "case_index": 343,
+      "receipts": 2075.6,
+      "receipt_cents": 207560,
+      "wrap_value": 2760,
+      "actual": 1422.12,
+      "naive_pred": 1455.7730045436515,
+      "error": 33.653004543651605
+    },
+    {
+      "case_index": 344,
+      "receipts": 2092.87,
+      "receipt_cents": 209287,
+      "wrap_value": 391,
+      "actual": 1696.72,
+      "naive_pred": 1725.9827913095246,
+      "error": 29.262791309524573
+    },
+    {
+      "case_index": 345,
+      "receipts": 2485.34,
+      "receipt_cents": 248534,
+      "wrap_value": 2774,
+      "actual": 1589.65,
+      "naive_pred": 1594.307717539682,
+      "error": 4.657717539681926
+    },
+    {
+      "case_index": 350,
+      "receipts": 2299.56,
+      "receipt_cents": 229956,
+      "wrap_value": 580,
+      "actual": 1807.67,
+      "naive_pred": 1743.6299404743868,
+      "error": 64.04005952561329
+    },
+    {
+      "case_index": 351,
+      "receipts": 2149.22,
+      "receipt_cents": 214921,
+      "wrap_value": 1929,
+      "actual": 1134.47,
+      "naive_pred": 1108.0116418957432,
+      "error": 26.45835810425683
+    },
+    {
+      "case_index": 354,
+      "receipts": 2380.76,
+      "receipt_cents": 238076,
+      "wrap_value": 508,
+      "actual": 1759.97,
+      "naive_pred": 1775.4590728878059,
+      "error": 15.489072887805833
+    },
+    {
+      "case_index": 360,
+      "receipts": 2440.91,
+      "receipt_cents": 244091,
+      "wrap_value": 2427,
+      "actual": 1638.66,
+      "naive_pred": 1621.7115340079367,
+      "error": 16.948465992063348
+    },
+    {
+      "case_index": 364,
+      "receipts": 2339.61,
+      "receipt_cents": 233961,
+      "wrap_value": 489,
+      "actual": 1705.9,
+      "naive_pred": 1743.278700761184,
+      "error": 37.378700761183836
+    },
+    {
+      "case_index": 374,
+      "receipts": 2175.27,
+      "receipt_cents": 217527,
+      "wrap_value": 439,
+      "actual": 1752.18,
+      "naive_pred": 1801.8189237543006,
+      "error": 49.63892375430055
+    },
+    {
+      "case_index": 380,
+      "receipts": 2391.34,
+      "receipt_cents": 239134,
+      "wrap_value": 1566,
+      "actual": 1593.12,
+      "naive_pred": 1577.919403226913,
+      "error": 15.200596773087
+    },
+    {
+      "case_index": 389,
+      "receipts": 2148.5,
+      "receipt_cents": 214850,
+      "wrap_value": 1858,
+      "actual": 1421.07,
+      "naive_pred": 1399.6779709126977,
+      "error": 21.392029087302262
+    },
+    {
+      "case_index": 391,
+      "receipts": 2481.44,
+      "receipt_cents": 248144,
+      "wrap_value": 2384,
+      "actual": 1755.18,
+      "naive_pred": 1722.9626676659454,
+      "error": 32.21733233405462
+    },
+    {
+      "case_index": 392,
+      "receipts": 2428.89,
+      "receipt_cents": 242889,
+      "wrap_value": 1225,
+      "actual": 1345.66,
+      "naive_pred": 1323.1535428914137,
+      "error": 22.506457108586346
+    },
+    {
+      "case_index": 395,
+      "receipts": 2385.6,
+      "receipt_cents": 238560,
+      "wrap_value": 992,
+      "actual": 1872.44,
+      "naive_pred": 1832.6815998809514,
+      "error": 39.7584001190487
+    },
+    {
+      "case_index": 406,
+      "receipts": 2442.76,
+      "receipt_cents": 244276,
+      "wrap_value": 2612,
+      "actual": 1798.47,
+      "naive_pred": 1794.9977995202012,
+      "error": 3.4722004797988575
+    },
+    {
+      "case_index": 407,
+      "receipts": 2447.82,
+      "receipt_cents": 244782,
+      "wrap_value": 3118,
+      "actual": 1826.93,
+      "naive_pred": 1805.5795618344162,
+      "error": 21.35043816558391
+    },
+    {
+      "case_index": 421,
+      "receipts": 2486.43,
+      "receipt_cents": 248642,
+      "wrap_value": 2882,
+      "actual": 1664.83,
+      "naive_pred": 1677.619254742063,
+      "error": 12.789254742063122
+    },
+    {
+      "case_index": 425,
+      "receipts": 2408.02,
+      "receipt_cents": 240802,
+      "wrap_value": 3234,
+      "actual": 1637.65,
+      "naive_pred": 1638.53308281746,
+      "error": 0.8830828174598082
+    },
+    {
+      "case_index": 428,
+      "receipts": 2164.22,
+      "receipt_cents": 216421,
+      "wrap_value": 3429,
+      "actual": 1889.87,
+      "naive_pred": 1843.778331349205,
+      "error": 46.09166865079487
+    },
+    {
+      "case_index": 436,
+      "receipts": 2218.74,
+      "receipt_cents": 221873,
+      "wrap_value": 689,
+      "actual": 1476.03,
+      "naive_pred": 1452.2004416407199,
+      "error": 23.8295583592801
+    },
+    {
+      "case_index": 437,
+      "receipts": 2383.17,
+      "receipt_cents": 238317,
+      "wrap_value": 749,
+      "actual": 1557.27,
+      "naive_pred": 1532.3415171230163,
+      "error": 24.928482876983708
+    },
+    {
+      "case_index": 446,
+      "receipts": 2442.92,
+      "receipt_cents": 244292,
+      "wrap_value": 2628,
+      "actual": 1643.68,
+      "naive_pred": 1681.8262714682548,
+      "error": 38.14627146825478
+    },
+    {
+      "case_index": 459,
+      "receipts": 2114.27,
+      "receipt_cents": 211427,
+      "wrap_value": 2531,
+      "actual": 1789.85,
+      "naive_pred": 1767.2995082287152,
+      "error": 22.55049177128467
+    },
+    {
+      "case_index": 461,
+      "receipts": 2335.55,
+      "receipt_cents": 233555,
+      "wrap_value": 83,
+      "actual": 1649.42,
+      "naive_pred": 1548.370595019842,
+      "error": 101.04940498015799
+    },
+    {
+      "case_index": 462,
+      "receipts": 2221.67,
+      "receipt_cents": 222167,
+      "wrap_value": 983,
+      "actual": 1872.89,
+      "naive_pred": 1833.574698551586,
+      "error": 39.315301448414175
+    },
+    {
+      "case_index": 470,
+      "receipts": 2250.51,
+      "receipt_cents": 225051,
+      "wrap_value": 3867,
+      "actual": 1691.15,
+      "naive_pred": 1654.0241053769848,
+      "error": 37.125894623015256
+    },
+    {
+      "case_index": 483,
+      "receipts": 2167.72,
+      "receipt_cents": 216771,
+      "wrap_value": 3779,
+      "actual": 1726.51,
+      "naive_pred": 1754.13357545274,
+      "error": 27.623575452739942
+    },
+    {
+      "case_index": 486,
+      "receipts": 2499.84,
+      "receipt_cents": 249984,
+      "wrap_value": 128,
+      "actual": 1791.69,
+      "naive_pred": 1787.8284676587296,
+      "error": 3.861532341270504
+    },
+    {
+      "case_index": 493,
+      "receipts": 2374.41,
+      "receipt_cents": 237441,
+      "wrap_value": 3969,
+      "actual": 1828.37,
+      "naive_pred": 1853.9264234722223,
+      "error": 25.556423472222377
+    },
+    {
+      "case_index": 499,
+      "receipts": 2176.26,
+      "receipt_cents": 217626,
+      "wrap_value": 538,
+      "actual": 1809.83,
+      "naive_pred": 1831.9926849458864,
+      "error": 22.16268494588644
+    },
+    {
+      "case_index": 504,
+      "receipts": 2479.33,
+      "receipt_cents": 247933,
+      "wrap_value": 2173,
+      "actual": 1478.31,
+      "naive_pred": 1507.2734613419918,
+      "error": 28.963461341991888
+    },
+    {
+      "case_index": 505,
+      "receipts": 2387.03,
+      "receipt_cents": 238703,
+      "wrap_value": 1135,
+      "actual": 1454.05,
+      "naive_pred": 1479.9364391666668,
+      "error": 25.886439166666833
+    },
+    {
+      "case_index": 510,
+      "receipts": 2296.07,
+      "receipt_cents": 229607,
+      "wrap_value": 231,
+      "actual": 1718.71,
+      "naive_pred": 1751.5082506601718,
+      "error": 32.79825066017179
+    },
+    {
+      "case_index": 513,
+      "receipts": 2016.76,
+      "receipt_cents": 201676,
+      "wrap_value": 972,
+      "actual": 1810.94,
+      "naive_pred": 1803.6987890277785,
+      "error": 7.241210972221552
+    },
+    {
+      "case_index": 517,
+      "receipts": 2135.36,
+      "receipt_cents": 213536,
+      "wrap_value": 544,
+      "actual": 1661.61,
+      "naive_pred": 1634.4649375992071,
+      "error": 27.145062400792767
+    },
+    {
+      "case_index": 524,
+      "receipts": 2223.86,
+      "receipt_cents": 222386,
+      "wrap_value": 1202,
+      "actual": 1979.83,
+      "naive_pred": 1916.697665315656,
+      "error": 63.13233468434396
+    },
+    {
+      "case_index": 530,
+      "receipts": 2223.72,
+      "receipt_cents": 222371,
+      "wrap_value": 1187,
+      "actual": 1600.1,
+      "naive_pred": 1615.272805838744,
+      "error": 15.172805838744125
+    },
+    {
+      "case_index": 537,
+      "receipts": 2444.81,
+      "receipt_cents": 244481,
+      "wrap_value": 2817,
+      "actual": 1523.75,
+      "naive_pred": 1512.300025039682,
+      "error": 11.449974960318059
+    },
+    {
+      "case_index": 542,
+      "receipts": 2253.61,
+      "receipt_cents": 225361,
+      "wrap_value": 81,
+      "actual": 1659.5,
+      "naive_pred": 1694.045094908008,
+      "error": 34.54509490800797
+    },
+    {
+      "case_index": 543,
+      "receipts": 2109.93,
+      "receipt_cents": 210992,
+      "wrap_value": 2096,
+      "actual": 1519.98,
+      "naive_pred": 1499.058922142857,
+      "error": 20.92107785714302
+    },
+    {
+      "case_index": 549,
+      "receipts": 2328.11,
+      "receipt_cents": 232811,
+      "wrap_value": 3435,
+      "actual": 1798.38,
+      "naive_pred": 1838.8546898953812,
+      "error": 40.47468989538106
+    },
+    {
+      "case_index": 565,
+      "receipts": 2191.27,
+      "receipt_cents": 219127,
+      "wrap_value": 2039,
+      "actual": 1776.62,
+      "naive_pred": 1789.757146729797,
+      "error": 13.137146729796996
+    },
+    {
+      "case_index": 570,
+      "receipts": 2263.77,
+      "receipt_cents": 226377,
+      "wrap_value": 1097,
+      "actual": 1685.92,
+      "naive_pred": 1606.0928833549783,
+      "error": 79.82711664502176
+    },
+    {
+      "case_index": 575,
+      "receipts": 2342.76,
+      "receipt_cents": 234276,
+      "wrap_value": 804,
+      "actual": 1458.63,
+      "naive_pred": 1440.0553643939402,
+      "error": 18.57463560605993
+    },
+    {
+      "case_index": 578,
+      "receipts": 2026.16,
+      "receipt_cents": 202616,
+      "wrap_value": 1912,
+      "actual": 1372.83,
+      "naive_pred": 1367.5504274999994,
+      "error": 5.2795725000005405
+    },
+    {
+      "case_index": 583,
+      "receipts": 2250.54,
+      "receipt_cents": 225054,
+      "wrap_value": 3870,
+      "actual": 2050.62,
+      "naive_pred": 1979.2867559541849,
+      "error": 71.33324404581504
+    },
+    {
+      "case_index": 585,
+      "receipts": 2497.16,
+      "receipt_cents": 249716,
+      "wrap_value": 3956,
+      "actual": 1885.87,
+      "naive_pred": 1881.2700821482676,
+      "error": 4.599917851732243
+    },
+    {
+      "case_index": 586,
+      "receipts": 2450.89,
+      "receipt_cents": 245089,
+      "wrap_value": 3425,
+      "actual": 1468.19,
+      "naive_pred": 1491.1618550595224,
+      "error": 22.97185505952234
+    },
+    {
+      "case_index": 601,
+      "receipts": 2231.86,
+      "receipt_cents": 223186,
+      "wrap_value": 2002,
+      "actual": 1988.56,
+      "naive_pred": 1974.3624292171717,
+      "error": 14.19757078282828
+    },
+    {
+      "case_index": 610,
+      "receipts": 2011.28,
+      "receipt_cents": 201128,
+      "wrap_value": 424,
+      "actual": 1421.45,
+      "naive_pred": 1339.6976407341278,
+      "error": 81.7523592658722
+    },
+    {
+      "case_index": 615,
+      "receipts": 2383.82,
+      "receipt_cents": 238382,
+      "wrap_value": 814,
+      "actual": 1664.76,
+      "naive_pred": 1681.132863571429,
+      "error": 16.37286357142898
+    },
+    {
+      "case_index": 618,
+      "receipts": 2235.72,
+      "receipt_cents": 223571,
+      "wrap_value": 2387,
+      "actual": 1628.6,
+      "naive_pred": 1662.5389627182544,
+      "error": 33.938962718254515
+    },
+    {
+      "case_index": 619,
+      "receipts": 2293.5,
+      "receipt_cents": 229350,
+      "wrap_value": 4070,
+      "actual": 1558.09,
+      "naive_pred": 1587.8813471645014,
+      "error": 29.79134716450153
+    },
+    {
+      "case_index": 626,
+      "receipts": 2103.82,
+      "receipt_cents": 210382,
+      "wrap_value": 1486,
+      "actual": 1695.08,
+      "naive_pred": 1656.6301402940119,
+      "error": 38.44985970598805
+    },
+    {
+      "case_index": 627,
+      "receipts": 2090.21,
+      "receipt_cents": 209021,
+      "wrap_value": 125,
+      "actual": 1968.4,
+      "naive_pred": 1864.5034253156562,
+      "error": 103.89657468434393
+    },
+    {
+      "case_index": 633,
+      "receipts": 2497.93,
+      "receipt_cents": 249792,
+      "wrap_value": 4032,
+      "actual": 1587.8,
+      "naive_pred": 1531.7876503174602,
+      "error": 56.01234968253971
+    },
+    {
+      "case_index": 637,
+      "receipts": 2452.85,
+      "receipt_cents": 245285,
+      "wrap_value": 3621,
+      "actual": 1209.08,
+      "naive_pred": 1171.1060671663063,
+      "error": 37.97393283369365
+    },
+    {
+      "case_index": 639,
+      "receipts": 2092.26,
+      "receipt_cents": 209226,
+      "wrap_value": 330,
+      "actual": 1436.66,
+      "naive_pred": 1436.5853876911976,
+      "error": 0.0746123088024433
+    },
+    {
+      "case_index": 644,
+      "receipts": 2418.19,
+      "receipt_cents": 241819,
+      "wrap_value": 155,
+      "actual": 1931.21,
+      "naive_pred": 1892.0125733531743,
+      "error": 39.19742664682576
+    },
+    {
+      "case_index": 651,
+      "receipts": 2180.53,
+      "receipt_cents": 218053,
+      "wrap_value": 965,
+      "actual": 1548.87,
+      "naive_pred": 1558.02211642857,
+      "error": 9.152116428570025
+    },
+    {
+      "case_index": 652,
+      "receipts": 2497.79,
+      "receipt_cents": 249779,
+      "wrap_value": 4019,
+      "actual": 1761.94,
+      "naive_pred": 1784.7863227164491,
+      "error": 22.846322716449095
+    },
+    {
+      "case_index": 653,
+      "receipts": 2016.19,
+      "receipt_cents": 201619,
+      "wrap_value": 915,
+      "actual": 1710.53,
+      "naive_pred": 1694.6217368668822,
+      "error": 15.90826313311777
+    },
+    {
+      "case_index": 655,
+      "receipts": 2003.23,
+      "receipt_cents": 200323,
+      "wrap_value": 3715,
+      "actual": 1829.06,
+      "naive_pred": 1851.9306883567829,
+      "error": 22.87068835678292
+    },
+    {
+      "case_index": 657,
+      "receipts": 2420.07,
+      "receipt_cents": 242007,
+      "wrap_value": 343,
+      "actual": 1456.34,
+      "naive_pred": 1409.1027811111107,
+      "error": 47.237218888889174
+    },
+    {
+      "case_index": 666,
+      "receipts": 2047.08,
+      "receipt_cents": 204708,
+      "wrap_value": 4004,
+      "actual": 1507.04,
+      "naive_pred": 1507.6986933585874,
+      "error": 0.6586933585874704
+    },
+    {
+      "case_index": 673,
+      "receipts": 2423.47,
+      "receipt_cents": 242346,
+      "wrap_value": 682,
+      "actual": 1643.96,
+      "naive_pred": 1686.7725183531743,
+      "error": 42.812518353174255
+    },
+    {
+      "case_index": 676,
+      "receipts": 2460.46,
+      "receipt_cents": 246046,
+      "wrap_value": 286,
+      "actual": 1711.97,
+      "naive_pred": 1692.6967500739538,
+      "error": 19.27324992604622
+    },
+    {
+      "case_index": 685,
+      "receipts": 2407.71,
+      "receipt_cents": 240771,
+      "wrap_value": 3203,
+      "actual": 1843.97,
+      "naive_pred": 1849.990718995309,
+      "error": 6.0207189953089255
+    },
+    {
+      "case_index": 686,
+      "receipts": 2394.85,
+      "receipt_cents": 239485,
+      "wrap_value": 1917,
+      "actual": 1740.85,
+      "naive_pred": 1760.8381842442293,
+      "error": 19.988184244229387
+    },
+    {
+      "case_index": 693,
+      "receipts": 2011.44,
+      "receipt_cents": 201144,
+      "wrap_value": 440,
+      "actual": 1423.85,
+      "naive_pred": 1321.6114749999997,
+      "error": 102.23852500000021
+    },
+    {
+      "case_index": 701,
+      "receipts": 2022.94,
+      "receipt_cents": 202294,
+      "wrap_value": 1590,
+      "actual": 1410.58,
+      "naive_pred": 1391.190774186508,
+      "error": 19.389225813491976
+    },
+    {
+      "case_index": 703,
+      "receipts": 2353.5,
+      "receipt_cents": 235350,
+      "wrap_value": 1878,
+      "actual": 1485.05,
+      "naive_pred": 1482.5393248809514,
+      "error": 2.5106751190485284
+    },
+    {
+      "case_index": 704,
+      "receipts": 2029.04,
+      "receipt_cents": 202904,
+      "wrap_value": 2200,
+      "actual": 1569.37,
+      "naive_pred": 1586.2214027976186,
+      "error": 16.851402797618675
+    },
+    {
+      "case_index": 711,
+      "receipts": 2005.96,
+      "receipt_cents": 200596,
+      "wrap_value": 3988,
+      "actual": 1970.01,
+      "naive_pred": 1971.917659468865,
+      "error": 1.9076594688649493
+    },
+    {
+      "case_index": 715,
+      "receipts": 2437.24,
+      "receipt_cents": 243723,
+      "wrap_value": 2059,
+      "actual": 1556.7,
+      "naive_pred": 1515.837839478717,
+      "error": 40.86216052128316
+    },
+    {
+      "case_index": 720,
+      "receipts": 2297.12,
+      "receipt_cents": 229712,
+      "wrap_value": 336,
+      "actual": 1423.86,
+      "naive_pred": 1439.3221730303028,
+      "error": 15.462173030302893
+    },
+    {
+      "case_index": 722,
+      "receipts": 2106.96,
+      "receipt_cents": 210696,
+      "wrap_value": 1800,
+      "actual": 1705.27,
+      "naive_pred": 1686.1581930970417,
+      "error": 19.11180690295828
+    },
+    {
+      "case_index": 723,
+      "receipts": 2424.47,
+      "receipt_cents": 242446,
+      "wrap_value": 782,
+      "actual": 1624.68,
+      "naive_pred": 1604.2320856800154,
+      "error": 20.447914319984648
+    },
+    {
+      "case_index": 733,
+      "receipts": 2047.57,
+      "receipt_cents": 204757,
+      "wrap_value": 4053,
+      "actual": 1202.9,
+      "naive_pred": 1223.0224224007936,
+      "error": 20.12242240079354
+    },
+    {
+      "case_index": 734,
+      "receipts": 2418.16,
+      "receipt_cents": 241816,
+      "wrap_value": 152,
+      "actual": 1490.96,
+      "naive_pred": 1502.121690465368,
+      "error": 11.161690465367883
+    },
+    {
+      "case_index": 735,
+      "receipts": 2419.86,
+      "receipt_cents": 241986,
+      "wrap_value": 322,
+      "actual": 1653.69,
+      "naive_pred": 1655.7423929040401,
+      "error": 2.0523929040400617
+    },
+    {
+      "case_index": 739,
+      "receipts": 2035.17,
+      "receipt_cents": 203517,
+      "wrap_value": 2813,
+      "actual": 1718.79,
+      "naive_pred": 1749.7417901208523,
+      "error": 30.951790120852365
+    },
+    {
+      "case_index": 741,
+      "receipts": 2140.61,
+      "receipt_cents": 214061,
+      "wrap_value": 1069,
+      "actual": 1989.13,
+      "naive_pred": 1936.7397303643572,
+      "error": 52.39026963564288
+    },
+    {
+      "case_index": 743,
+      "receipts": 2234.35,
+      "receipt_cents": 223435,
+      "wrap_value": 2251,
+      "actual": 1665.23,
+      "naive_pred": 1681.9211652813851,
+      "error": 16.69116528138511
+    },
+    {
+      "case_index": 753,
+      "receipts": 2245.56,
+      "receipt_cents": 224556,
+      "wrap_value": 3372,
+      "actual": 1745.09,
+      "naive_pred": 1798.9871571554831,
+      "error": 53.89715715548323
+    },
+    {
+      "case_index": 765,
+      "receipts": 2077.07,
+      "receipt_cents": 207707,
+      "wrap_value": 2907,
+      "actual": 1666.29,
+      "naive_pred": 1630.8426129761906,
+      "error": 35.44738702380937
+    },
+    {
+      "case_index": 768,
+      "receipts": 2004.61,
+      "receipt_cents": 200461,
+      "wrap_value": 3853,
+      "actual": 1721.56,
+      "naive_pred": 1723.6525072402585,
+      "error": 2.0925072402585556
+    },
+    {
+      "case_index": 772,
+      "receipts": 2359.64,
+      "receipt_cents": 235964,
+      "wrap_value": 2492,
+      "actual": 1483.58,
+      "naive_pred": 1479.2795369588741,
+      "error": 4.300463041125795
+    },
+    {
+      "case_index": 777,
+      "receipts": 2277.93,
+      "receipt_cents": 227792,
+      "wrap_value": 2512,
+      "actual": 1807.33,
+      "naive_pred": 1818.6292609325394,
+      "error": 11.299260932539482
+    },
+    {
+      "case_index": 780,
+      "receipts": 2417.85,
+      "receipt_cents": 241785,
+      "wrap_value": 121,
+      "actual": 1634.04,
+      "naive_pred": 1629.0100759722231,
+      "error": 5.029924027776815
+    },
+    {
+      "case_index": 783,
+      "receipts": 2330.2,
+      "receipt_cents": 233019,
+      "wrap_value": 3643,
+      "actual": 1728.07,
+      "naive_pred": 1769.2427348809517,
+      "error": 41.17273488095179
+    },
+    {
+      "case_index": 784,
+      "receipts": 2049.71,
+      "receipt_cents": 204971,
+      "wrap_value": 171,
+      "actual": 1491.9,
+      "naive_pred": 1497.0185298124097,
+      "error": 5.1185298124096335
+    },
+    {
+      "case_index": 792,
+      "receipts": 2462.26,
+      "receipt_cents": 246226,
+      "wrap_value": 466,
+      "actual": 1906.35,
+      "naive_pred": 1905.276546466451,
+      "error": 1.0734535335489
+    },
+    {
+      "case_index": 796,
+      "receipts": 2494.69,
+      "receipt_cents": 249469,
+      "wrap_value": 3709,
+      "actual": 1742.34,
+      "naive_pred": 1679.9343778968257,
+      "error": 62.40562210317421
+    },
+    {
+      "case_index": 799,
+      "receipts": 2461.93,
+      "receipt_cents": 246192,
+      "wrap_value": 432,
+      "actual": 1516.58,
+      "naive_pred": 1543.6464982539678,
+      "error": 27.066498253967893
+    },
+    {
+      "case_index": 801,
+      "receipts": 2085.98,
+      "receipt_cents": 208598,
+      "wrap_value": 3798,
+      "actual": 1757.81,
+      "naive_pred": 1762.1897370634933,
+      "error": 4.379737063493394
+    },
+    {
+      "case_index": 803,
+      "receipts": 2240.9,
+      "receipt_cents": 224090,
+      "wrap_value": 2906,
+      "actual": 1785.72,
+      "naive_pred": 1772.8784966540397,
+      "error": 12.841503345960291
+    },
+    {
+      "case_index": 806,
+      "receipts": 2342.27,
+      "receipt_cents": 234227,
+      "wrap_value": 755,
+      "actual": 1705.24,
+      "naive_pred": 1693.730907283552,
+      "error": 11.509092716448095
+    },
+    {
+      "case_index": 808,
+      "receipts": 2013.45,
+      "receipt_cents": 201345,
+      "wrap_value": 641,
+      "actual": 1590.82,
+      "naive_pred": 1605.6935630952366,
+      "error": 14.873563095236705
+    },
+    {
+      "case_index": 812,
+      "receipts": 2335.55,
+      "receipt_cents": 233555,
+      "wrap_value": 83,
+      "actual": 1698.94,
+      "naive_pred": 1696.1998925541127,
+      "error": 2.740107445887361
+    },
+    {
+      "case_index": 828,
+      "receipts": 2334.41,
+      "receipt_cents": 233441,
+      "wrap_value": 4065,
+      "actual": 1485.4,
+      "naive_pred": 1487.3302638636364,
+      "error": 1.9302638636363554
+    },
+    {
+      "case_index": 829,
+      "receipts": 2166.56,
+      "receipt_cents": 216656,
+      "wrap_value": 3664,
+      "actual": 1918.46,
+      "naive_pred": 1847.8897486111102,
+      "error": 70.5702513888898
+    },
+    {
+      "case_index": 833,
+      "receipts": 2048.26,
+      "receipt_cents": 204826,
+      "wrap_value": 26,
+      "actual": 1632.61,
+      "naive_pred": 1632.9883681349208,
+      "error": 0.37836813492094734
+    },
+    {
+      "case_index": 834,
+      "receipts": 2338.52,
+      "receipt_cents": 233852,
+      "wrap_value": 380,
+      "actual": 1513.04,
+      "naive_pred": 1528.9455195544733,
+      "error": 15.905519554473358
+    },
+    {
+      "case_index": 835,
+      "receipts": 2253.41,
+      "receipt_cents": 225341,
+      "wrap_value": 61,
+      "actual": 1758.56,
+      "naive_pred": 1785.970985156925,
+      "error": 27.410985156925108
+    },
+    {
+      "case_index": 837,
+      "receipts": 2317.31,
+      "receipt_cents": 231731,
+      "wrap_value": 2355,
+      "actual": 1691.38,
+      "naive_pred": 1721.325801150794,
+      "error": 29.94580115079384
+    },
+    {
+      "case_index": 845,
+      "receipts": 2373.39,
+      "receipt_cents": 237339,
+      "wrap_value": 3867,
+      "actual": 1747.22,
+      "naive_pred": 1731.367210930736,
+      "error": 15.852789069263963
+    },
+    {
+      "case_index": 848,
+      "receipts": 2195.67,
+      "receipt_cents": 219567,
+      "wrap_value": 2479,
+      "actual": 1625.46,
+      "naive_pred": 1633.7936333928565,
+      "error": 8.333633392856427
+    },
+    {
+      "case_index": 849,
+      "receipts": 2054.21,
+      "receipt_cents": 205421,
+      "wrap_value": 621,
+      "actual": 1810.37,
+      "naive_pred": 1775.0823229166667,
+      "error": 35.287677083333165
+    },
+    {
+      "case_index": 854,
+      "receipts": 2073.25,
+      "receipt_cents": 207325,
+      "wrap_value": 2525,
+      "actual": 1522.45,
+      "naive_pred": 1521.9239489790768,
+      "error": 0.5260510209232052
+    },
+    {
+      "case_index": 860,
+      "receipts": 2436.67,
+      "receipt_cents": 243667,
+      "wrap_value": 2003,
+      "actual": 1459.63,
+      "naive_pred": 1491.6206568055559,
+      "error": 31.990656805555773
+    },
+    {
+      "case_index": 862,
+      "receipts": 2314.68,
+      "receipt_cents": 231467,
+      "wrap_value": 2091,
+      "actual": 1500.28,
+      "naive_pred": 1430.569060155123,
+      "error": 69.71093984487698
+    },
+    {
+      "case_index": 866,
+      "receipts": 2258.01,
+      "receipt_cents": 225801,
+      "wrap_value": 521,
+      "actual": 1889.71,
+      "naive_pred": 1869.8855581024525,
+      "error": 19.82444189754756
+    },
+    {
+      "case_index": 868,
+      "receipts": 2106.63,
+      "receipt_cents": 210663,
+      "wrap_value": 1767,
+      "actual": 1450.67,
+      "naive_pred": 1443.1857873408524,
+      "error": 7.484212659147715
+    },
+    {
+      "case_index": 871,
+      "receipts": 2247.39,
+      "receipt_cents": 224739,
+      "wrap_value": 3555,
+      "actual": 1629.92,
+      "naive_pred": 1623.7563828373015,
+      "error": 6.163617162698529
+    },
+    {
+      "case_index": 877,
+      "receipts": 2365.46,
+      "receipt_cents": 236546,
+      "wrap_value": 3074,
+      "actual": 1443.02,
+      "naive_pred": 1435.2322094368117,
+      "error": 7.7877905631883095
+    },
+    {
+      "case_index": 882,
+      "receipts": 2028.06,
+      "receipt_cents": 202806,
+      "wrap_value": 2102,
+      "actual": 2079.14,
+      "naive_pred": 2011.4123492857138,
+      "error": 67.72765071428603
+    },
+    {
+      "case_index": 884,
+      "receipts": 2382.39,
+      "receipt_cents": 238239,
+      "wrap_value": 671,
+      "actual": 1437.95,
+      "naive_pred": 1462.6233723611115,
+      "error": 24.673372361111433
+    },
+    {
+      "case_index": 887,
+      "receipts": 2141.08,
+      "receipt_cents": 214108,
+      "wrap_value": 1116,
+      "actual": 1715.29,
+      "naive_pred": 1758.5247047023795,
+      "error": 43.23470470237953
+    },
+    {
+      "case_index": 892,
+      "receipts": 2243.12,
+      "receipt_cents": 224312,
+      "wrap_value": 3128,
+      "actual": 1392.1,
+      "naive_pred": 1314.2947622168099,
+      "error": 77.80523778319002
+    },
+    {
+      "case_index": 894,
+      "receipts": 2461.37,
+      "receipt_cents": 246137,
+      "wrap_value": 377,
+      "actual": 1556.78,
+      "naive_pred": 1560.2854330952377,
+      "error": 3.505433095237777
+    },
+    {
+      "case_index": 902,
+      "receipts": 2083.15,
+      "receipt_cents": 208315,
+      "wrap_value": 3515,
+      "actual": 1645.06,
+      "naive_pred": 1683.5228237103192,
+      "error": 38.4628237103193
+    },
+    {
+      "case_index": 903,
+      "receipts": 2150.17,
+      "receipt_cents": 215017,
+      "wrap_value": 2025,
+      "actual": 1765.67,
+      "naive_pred": 1733.127118201659,
+      "error": 32.542881798341114
+    },
+    {
+      "case_index": 905,
+      "receipts": 2355.92,
+      "receipt_cents": 235592,
+      "wrap_value": 2120,
+      "actual": 1528.91,
+      "naive_pred": 1507.7745564682543,
+      "error": 21.13544353174575
+    },
+    {
+      "case_index": 908,
+      "receipts": 2319.81,
+      "receipt_cents": 231981,
+      "wrap_value": 2605,
+      "actual": 1858.36,
+      "naive_pred": 1860.4688373870567,
+      "error": 2.1088373870568375
+    },
+    {
+      "case_index": 912,
+      "receipts": 2141.92,
+      "receipt_cents": 214192,
+      "wrap_value": 1200,
+      "actual": 1438.41,
+      "naive_pred": 1435.2769513690478,
+      "error": 3.1330486309523167
+    },
+    {
+      "case_index": 913,
+      "receipts": 2005.84,
+      "receipt_cents": 200584,
+      "wrap_value": 3976,
+      "actual": 1997.52,
+      "naive_pred": 1988.5987864682525,
+      "error": 8.921213531747526
+    },
+    {
+      "case_index": 915,
+      "receipts": 2181.67,
+      "receipt_cents": 218167,
+      "wrap_value": 1079,
+      "actual": 1632.42,
+      "naive_pred": 1615.6636663095235,
+      "error": 16.756333690476595
+    },
+    {
+      "case_index": 919,
+      "receipts": 2492.79,
+      "receipt_cents": 249279,
+      "wrap_value": 3519,
+      "actual": 1753.84,
+      "naive_pred": 1789.8923557233045,
+      "error": 36.05235572330457
+    },
+    {
+      "case_index": 921,
+      "receipts": 2359.42,
+      "receipt_cents": 235942,
+      "wrap_value": 2470,
+      "actual": 1619,
+      "naive_pred": 1615.876986488096,
+      "error": 3.1230135119039915
+    },
+    {
+      "case_index": 926,
+      "receipts": 2455.53,
+      "receipt_cents": 245553,
+      "wrap_value": 3889,
+      "actual": 1572.91,
+      "naive_pred": 1586.897933690476,
+      "error": 13.987933690475984
+    },
+    {
+      "case_index": 933,
+      "receipts": 2449.89,
+      "receipt_cents": 244989,
+      "wrap_value": 3325,
+      "actual": 1472.53,
+      "naive_pred": 1466.0481851731595,
+      "error": 6.481814826840491
+    },
+    {
+      "case_index": 939,
+      "receipts": 2320.13,
+      "receipt_cents": 232013,
+      "wrap_value": 2637,
+      "actual": 1475.4,
+      "naive_pred": 1374.4884451010096,
+      "error": 100.91155489899052
+    },
+    {
+      "case_index": 943,
+      "receipts": 2383.17,
+      "receipt_cents": 238317,
+      "wrap_value": 749,
+      "actual": 1785.53,
+      "naive_pred": 1740.135321527779,
+      "error": 45.3946784722209
+    },
+    {
+      "case_index": 947,
+      "receipts": 2469.06,
+      "receipt_cents": 246906,
+      "wrap_value": 1146,
+      "actual": 1503.98,
+      "naive_pred": 1486.8072996230158,
+      "error": 17.172700376984267
+    },
+    {
+      "case_index": 949,
+      "receipts": 2013.4,
+      "receipt_cents": 201340,
+      "wrap_value": 636,
+      "actual": 1839.05,
+      "naive_pred": 1849.7500781259023,
+      "error": 10.700078125902337
+    },
+    {
+      "case_index": 952,
+      "receipts": 2178.45,
+      "receipt_cents": 217844,
+      "wrap_value": 756,
+      "actual": 1506.38,
+      "naive_pred": 1510.877425618686,
+      "error": 4.497425618685838
+    },
+    {
+      "case_index": 953,
+      "receipts": 2068.65,
+      "receipt_cents": 206865,
+      "wrap_value": 2065,
+      "actual": 1556.68,
+      "naive_pred": 1573.5327489646465,
+      "error": 16.85274896464648
+    },
+    {
+      "case_index": 960,
+      "receipts": 2163.39,
+      "receipt_cents": 216339,
+      "wrap_value": 3347,
+      "actual": 1523.26,
+      "naive_pred": 1504.9140375793647,
+      "error": 18.34596242063526
+    },
+    {
+      "case_index": 965,
+      "receipts": 2417.62,
+      "receipt_cents": 241762,
+      "wrap_value": 98,
+      "actual": 1755.05,
+      "naive_pred": 1758.2205619246024,
+      "error": 3.1705619246024526
+    },
+    {
+      "case_index": 970,
+      "receipts": 2104.61,
+      "receipt_cents": 210461,
+      "wrap_value": 1565,
+      "actual": 1899.69,
+      "naive_pred": 1966.4730147420635,
+      "error": 66.78301474206341
+    },
+    {
+      "case_index": 975,
+      "receipts": 2488.22,
+      "receipt_cents": 248821,
+      "wrap_value": 3061,
+      "actual": 1561.2,
+      "naive_pred": 1552.8046314682529,
+      "error": 8.395368531747181
+    },
+    {
+      "case_index": 979,
+      "receipts": 2202.42,
+      "receipt_cents": 220242,
+      "wrap_value": 3154,
+      "actual": 1716.13,
+      "naive_pred": 1725.2049104563475,
+      "error": 9.074910456347425
+    },
+    {
+      "case_index": 983,
+      "receipts": 2248.68,
+      "receipt_cents": 224867,
+      "wrap_value": 3683,
+      "actual": 1905.5,
+      "naive_pred": 1925.7558968145752,
+      "error": 20.25589681457518
+    },
+    {
+      "case_index": 985,
+      "receipts": 2397.29,
+      "receipt_cents": 239729,
+      "wrap_value": 2161,
+      "actual": 1917.57,
+      "naive_pred": 1882.5196423611112,
+      "error": 35.05035763888873
+    },
+    {
+      "case_index": 986,
+      "receipts": 2194.16,
+      "receipt_cents": 219416,
+      "wrap_value": 2328,
+      "actual": 1758.03,
+      "naive_pred": 1806.4381364393932,
+      "error": 48.408136439393274
+    },
+    {
+      "case_index": 991,
+      "receipts": 2329.69,
+      "receipt_cents": 232969,
+      "wrap_value": 3593,
+      "actual": 1791.96,
+      "naive_pred": 1756.3756272817452,
+      "error": 35.584372718254826
+    },
+    {
+      "case_index": 996,
+      "receipts": 2238.97,
+      "receipt_cents": 223896,
+      "wrap_value": 2712,
+      "actual": 1699.94,
+      "naive_pred": 1726.3613578571428,
+      "error": 26.421357857142766
+    }
+  ],
+  "long_low_cases": [
+    {
+      "case_index": 625,
+      "days": 14,
+      "receipts": 105.94,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.15134285714285714,
+      "actual": 1180.63,
+      "naive_pred": 963.1587888492066,
+      "error": 217.47121115079347
+    },
+    {
+      "case_index": 152,
+      "days": 11,
+      "receipts": 31.36,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.057018181818181815,
+      "actual": 1550.55,
+      "naive_pred": 1349.3641018055546,
+      "error": 201.18589819444537
+    },
+    {
+      "case_index": 550,
+      "days": 13,
+      "receipts": 268.91,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.41370769230769233,
+      "actual": 1396.28,
+      "naive_pred": 1283.1255093253965,
+      "error": 113.1544906746035
+    },
+    {
+      "case_index": 293,
+      "days": 10,
+      "receipts": 39.86,
+      "expected_receipts": 500,
+      "receipt_ratio": 0.07972,
+      "actual": 982.64,
+      "naive_pred": 1072.2930120779229,
+      "error": 89.65301207792288
+    },
+    {
+      "case_index": 924,
+      "days": 11,
+      "receipts": 269.95,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.4908181818181818,
+      "actual": 695.66,
+      "naive_pred": 779.078415214646,
+      "error": 83.41841521464607
+    },
+    {
+      "case_index": 759,
+      "days": 12,
+      "receipts": 52.65,
+      "expected_receipts": 600,
+      "receipt_ratio": 0.08775,
+      "actual": 789.01,
+      "naive_pred": 711.3996290155675,
+      "error": 77.6103709844325
+    },
+    {
+      "case_index": 645,
+      "days": 14,
+      "receipts": 346.58,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.4951142857142857,
+      "actual": 1292.93,
+      "naive_pred": 1363.1323457900423,
+      "error": 70.20234579004227
+    },
+    {
+      "case_index": 453,
+      "days": 13,
+      "receipts": 232.72,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.3580307692307692,
+      "actual": 1394.38,
+      "naive_pred": 1331.6119121825402,
+      "error": 62.7680878174599
+    },
+    {
+      "case_index": 981,
+      "days": 14,
+      "receipts": 97.95,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.13992857142857143,
+      "actual": 1203.93,
+      "naive_pred": 1146.143557205988,
+      "error": 57.786442794012146
+    },
+    {
+      "case_index": 810,
+      "days": 13,
+      "receipts": 206.45,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.3176153846153846,
+      "actual": 1110,
+      "naive_pred": 1164.1175079743869,
+      "error": 54.117507974386854
+    },
+    {
+      "case_index": 203,
+      "days": 12,
+      "receipts": 203.2,
+      "expected_receipts": 600,
+      "receipt_ratio": 0.33866666666666667,
+      "actual": 1408.25,
+      "naive_pred": 1354.7734674206345,
+      "error": 53.47653257936554
+    },
+    {
+      "case_index": 521,
+      "days": 10,
+      "receipts": 23.47,
+      "expected_receipts": 500,
+      "receipt_ratio": 0.046939999999999996,
+      "actual": 1157.87,
+      "naive_pred": 1207.7618828174607,
+      "error": 49.89188281746078
+    },
+    {
+      "case_index": 306,
+      "days": 11,
+      "receipts": 218.66,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.39756363636363634,
+      "actual": 949.34,
+      "naive_pred": 900.8665256673878,
+      "error": 48.47347433261223
+    },
+    {
+      "case_index": 387,
+      "days": 14,
+      "receipts": 237.69,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.33955714285714284,
+      "actual": 1265.57,
+      "naive_pred": 1313.208207420635,
+      "error": 47.638207420635126
+    },
+    {
+      "case_index": 443,
+      "days": 13,
+      "receipts": 271.93,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.4183538461538462,
+      "actual": 1017.64,
+      "naive_pred": 970.2960288095232,
+      "error": 47.343971190476736
+    },
+    {
+      "case_index": 778,
+      "days": 11,
+      "receipts": 146.71,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.26674545454545456,
+      "actual": 1267.98,
+      "naive_pred": 1224.9654907539684,
+      "error": 43.014509246031594
+    },
+    {
+      "case_index": 556,
+      "days": 13,
+      "receipts": 232.43,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.3575846153846154,
+      "actual": 805.12,
+      "naive_pred": 763.7912939722777,
+      "error": 41.32870602772232
+    },
+    {
+      "case_index": 795,
+      "days": 10,
+      "receipts": 158.93,
+      "expected_receipts": 500,
+      "receipt_ratio": 0.31786000000000003,
+      "actual": 993.55,
+      "naive_pred": 1034.5691574963928,
+      "error": 41.019157496392836
+    },
+    {
+      "case_index": 677,
+      "days": 13,
+      "receipts": 107.92,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.16603076923076923,
+      "actual": 710.25,
+      "naive_pred": 750.8196260209231,
+      "error": 40.569626020923124
+    },
+    {
+      "case_index": 479,
+      "days": 14,
+      "receipts": 186.47,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.2663857142857143,
+      "actual": 1292.77,
+      "naive_pred": 1252.9265259433616,
+      "error": 39.84347405663834
+    },
+    {
+      "case_index": 566,
+      "days": 12,
+      "receipts": 32.55,
+      "expected_receipts": 600,
+      "receipt_ratio": 0.05424999999999999,
+      "actual": 1387.43,
+      "naive_pred": 1347.9491097817454,
+      "error": 39.48089021825467
+    },
+    {
+      "case_index": 661,
+      "days": 12,
+      "receipts": 193.05,
+      "expected_receipts": 600,
+      "receipt_ratio": 0.32175000000000004,
+      "actual": 1225.63,
+      "naive_pred": 1261.4216612698415,
+      "error": 35.79166126984137
+    },
+    {
+      "case_index": 348,
+      "days": 11,
+      "receipts": 167.15,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.3039090909090909,
+      "actual": 1175.65,
+      "naive_pred": 1208.415650479798,
+      "error": 32.76565047979784
+    },
+    {
+      "case_index": 858,
+      "days": 11,
+      "receipts": 130.07,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.23649090909090908,
+      "actual": 852.02,
+      "naive_pred": 884.1522438149348,
+      "error": 32.13224381493478
+    },
+    {
+      "case_index": 972,
+      "days": 11,
+      "receipts": 270.81,
+      "expected_receipts": 550,
+      "receipt_ratio": 0.4923818181818182,
+      "actual": 1284.51,
+      "naive_pred": 1315.031183928572,
+      "error": 30.5211839285721
+    },
+    {
+      "case_index": 838,
+      "days": 10,
+      "receipts": 226.53,
+      "expected_receipts": 500,
+      "receipt_ratio": 0.45306,
+      "actual": 1060.47,
+      "naive_pred": 1075.4832734108948,
+      "error": 15.013273410894726
+    },
+    {
+      "case_index": 875,
+      "days": 13,
+      "receipts": 78.44,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.12067692307692307,
+      "actual": 713.71,
+      "naive_pred": 699.652385242119,
+      "error": 14.057614757881083
+    },
+    {
+      "case_index": 356,
+      "days": 12,
+      "receipts": 124.65,
+      "expected_receipts": 600,
+      "receipt_ratio": 0.20775000000000002,
+      "actual": 1314.3,
+      "naive_pred": 1323.9204181349203,
+      "error": 9.620418134920328
+    },
+    {
+      "case_index": 713,
+      "days": 14,
+      "receipts": 313.73,
+      "expected_receipts": 700,
+      "receipt_ratio": 0.4481857142857143,
+      "actual": 1201.26,
+      "naive_pred": 1209.3206932413414,
+      "error": 8.060693241341369
+    },
+    {
+      "case_index": 916,
+      "days": 13,
+      "receipts": 24.47,
+      "expected_receipts": 650,
+      "receipt_ratio": 0.03764615384615384,
+      "actual": 1344.17,
+      "naive_pred": 1340.4681336111105,
+      "error": 3.7018663888895844
+    }
+  ],
+  "luck_patterns": [
+    [
+      3,
+      21.58336825977812,
+      63
+    ]
+  ]
+}

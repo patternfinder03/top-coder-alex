@@ -1,0 +1,3698 @@
+{
+  "target_pattern_matches": [],
+  "strange_hex_cases": [
+    {
+      "case_index": 1,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666",
+        "Palindrome: 66666",
+        "Palindrome: 666666",
+        "Palindrome: 6666",
+        "Palindrome: 66666",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 55,
+        "total_receipts_amount": 3.6
+      },
+      "output": 126.06,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "37",
+        "receipts": "40666666",
+        "output": "42FC1EB8",
+        "combined": "1374066666642FC1EB8"
+      }
+    },
+    {
+      "case_index": 5,
+      "strange_patterns": [
+        "Palindrome: 14C41"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 76,
+        "total_receipts_amount": 13.74
+      },
+      "output": 158.35,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "4C",
+        "receipts": "415BD70A",
+        "output": "431E599A",
+        "combined": "14C415BD70A431E599A"
+      }
+    },
+    {
+      "case_index": 11,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 80,
+        "total_receipts_amount": 21.05
+      },
+      "output": 366.87,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "50",
+        "receipts": "41A86666",
+        "output": "43B76F5C",
+        "combined": "35041A8666643B76F5C"
+      }
+    },
+    {
+      "case_index": 12,
+      "strange_patterns": [
+        "Palindrome: C434C"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 21,
+        "total_receipts_amount": 20.04
+      },
+      "output": 204.58,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "15",
+        "receipts": "41A051EC",
+        "output": "434C947B",
+        "combined": "21541A051EC434C947B"
+      }
+    },
+    {
+      "case_index": 14,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 141,
+        "total_receipts_amount": 10.15
+      },
+      "output": 195.14,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "8D",
+        "receipts": "41226666",
+        "output": "434323D7",
+        "combined": "18D41226666434323D7"
+      }
+    },
+    {
+      "case_index": 15,
+      "strange_patterns": [
+        "Palindrome: EA7AE"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 58,
+        "total_receipts_amount": 5.86
+      },
+      "output": 117.24,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "3A",
+        "receipts": "40BB851F",
+        "output": "42EA7AE1",
+        "combined": "13A40BB851F42EA7AE1"
+      }
+    },
+    {
+      "case_index": 18,
+      "strange_patterns": [
+        "Repeating digits: {'3'}",
+        "Palindrome: 3333"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 89,
+        "total_receipts_amount": 13.85
+      },
+      "output": 234.2,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "59",
+        "receipts": "415D999A",
+        "output": "436A3333",
+        "combined": "259415D999A436A3333"
+      }
+    },
+    {
+      "case_index": 40,
+      "strange_patterns": [
+        "Palindrome: E44E",
+        "Palindrome: 33B33"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 862,
+        "total_receipts_amount": 1817.85
+      },
+      "output": 1719.37,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "35E",
+        "receipts": "44E33B33",
+        "output": "44D6EBD7",
+        "combined": "835E44E33B3344D6EBD7"
+      }
+    },
+    {
+      "case_index": 41,
+      "strange_patterns": [
+        "Palindrome: 9F44F9",
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 927,
+        "total_receipts_amount": 1994.33
+      },
+      "output": 1779.12,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "39F",
+        "receipts": "44F94A8F",
+        "output": "44DE63D7",
+        "combined": "B39F44F94A8F44DE63D7"
+      }
+    },
+    {
+      "case_index": 46,
+      "strange_patterns": [
+        "Palindrome: 66E66"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 218,
+        "total_receipts_amount": 1203.45
+      },
+      "output": 1561.63,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "DA",
+        "receipts": "44966E66",
+        "output": "44C33429",
+        "combined": "9DA44966E6644C33429"
+      }
+    },
+    {
+      "case_index": 49,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 358,
+        "total_receipts_amount": 2066.62
+      },
+      "output": 1624.11,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "166",
+        "receipts": "450129EC",
+        "output": "44CB0385",
+        "combined": "A166450129EC44CB0385"
+      }
+    },
+    {
+      "case_index": 61,
+      "strange_patterns": [
+        "Palindrome: 3443",
+        "Palindrome: 2CC2"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 993,
+        "total_receipts_amount": 54.24
+      },
+      "output": 715.19,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "3E1",
+        "receipts": "4258F5C3",
+        "output": "4432CC29",
+        "combined": "23E14258F5C34432CC29"
+      }
+    },
+    {
+      "case_index": 70,
+      "strange_patterns": [
+        "Palindrome: 6446"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 624,
+        "total_receipts_amount": 148.16
+      },
+      "output": 905.79,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "270",
+        "receipts": "431428F6",
+        "output": "4462728F",
+        "combined": "7270431428F64462728F"
+      }
+    },
+    {
+      "case_index": 81,
+      "strange_patterns": [
+        "Palindrome: C444C"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 204,
+        "total_receipts_amount": 818.99
+      },
+      "output": 628.4,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "CC",
+        "receipts": "444CBF5C",
+        "output": "441D199A",
+        "combined": "6CC444CBF5C441D199A"
+      }
+    },
+    {
+      "case_index": 98,
+      "strange_patterns": [
+        "Palindrome: 40004"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1061.15,
+        "total_receipts_amount": 388.5
+      },
+      "output": 693.36,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "4484A4CD",
+        "receipts": "43C24000",
+        "output": "442D570A",
+        "combined": "34484A4CD43C24000442D570A"
+      }
+    },
+    {
+      "case_index": 107,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1317.07,
+        "total_receipts_amount": 476.87
+      },
+      "output": 787.42,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "44A4A23D",
+        "receipts": "43EE6F5C",
+        "output": "4444DAE1",
+        "combined": "344A4A23D43EE6F5C4444DAE1"
+      }
+    },
+    {
+      "case_index": 112,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 297.64,
+        "total_receipts_amount": 481.09
+      },
+      "output": 835.08,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "4394D1EC",
+        "receipts": "43F08B85",
+        "output": "4450C51F",
+        "combined": "84394D1EC43F08B854450C51F"
+      }
+    },
+    {
+      "case_index": 116,
+      "strange_patterns": [
+        "Palindrome: 8448"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 302.24,
+        "total_receipts_amount": 1046.04
+      },
+      "output": 1353.77,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "43971EB8",
+        "receipts": "4482C148",
+        "output": "44A938A4",
+        "combined": "843971EB84482C14844A938A4"
+      }
+    },
+    {
+      "case_index": 121,
+      "strange_patterns": [
+        "Sequential pattern: 4321"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 161.15,
+        "total_receipts_amount": 1230.37
+      },
+      "output": 1499.24,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "43212666",
+        "receipts": "4499CBD7",
+        "output": "44BB67AE",
+        "combined": "8432126664499CBD744BB67AE"
+      }
+    },
+    {
+      "case_index": 124,
+      "strange_patterns": [
+        "Palindrome: DCCD"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 194.34,
+        "total_receipts_amount": 1054.93
+      },
+      "output": 1374.9,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "4342570A",
+        "receipts": "4483DDC3",
+        "output": "44ABDCCD",
+        "combined": "94342570A4483DDC344ABDCCD"
+      }
+    },
+    {
+      "case_index": 125,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 332.35,
+        "total_receipts_amount": 374.61
+      },
+      "output": 830.45,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "43A62CCD",
+        "receipts": "43BB4E14",
+        "output": "444F9CCD",
+        "combined": "943A62CCD43BB4E14444F9CCD"
+      }
+    },
+    {
+      "case_index": 128,
+      "strange_patterns": [
+        "Palindrome: 07570"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 135.34,
+        "total_receipts_amount": 1144.13
+      },
+      "output": 1478.11,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "4307570A",
+        "receipts": "448F0429",
+        "output": "44B8C385",
+        "combined": "64307570A448F042944B8C385"
+      }
+    },
+    {
+      "case_index": 129,
+      "strange_patterns": [
+        "Palindrome: 42224"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 233.7,
+        "total_receipts_amount": 346.98
+      },
+      "output": 648.57,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "4369B333",
+        "receipts": "43AD7D71",
+        "output": "4422247B",
+        "combined": "64369B33343AD7D714422247B"
+      }
+    },
+    {
+      "case_index": 130,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 849,
+        "total_receipts_amount": 1007.41
+      },
+      "output": 1785.47,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "351",
+        "receipts": "447BDA3D",
+        "output": "44DF2F0A",
+        "combined": "9351447BDA3D44DF2F0A"
+      }
+    },
+    {
+      "case_index": 133,
+      "strange_patterns": [
+        "Palindrome: A7C7A"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1182,
+        "total_receipts_amount": 1342.24
+      },
+      "output": 2164.15,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "49E",
+        "receipts": "44A7C7AE",
+        "output": "45074266",
+        "combined": "949E44A7C7AE45074266"
+      }
+    },
+    {
+      "case_index": 135,
+      "strange_patterns": [
+        "Sequential pattern: EDCB"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 892,
+        "total_receipts_amount": 1768.53
+      },
+      "output": 1902.37,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "37C",
+        "receipts": "44DD10F6",
+        "output": "44EDCBD7",
+        "combined": "837C44DD10F644EDCBD7"
+      }
+    },
+    {
+      "case_index": 140,
+      "strange_patterns": [
+        "Palindrome: 44E44"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 889,
+        "total_receipts_amount": 1417.96
+      },
+      "output": 1826.08,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "379",
+        "receipts": "44B13EB8",
+        "output": "44E4428F",
+        "combined": "737944B13EB844E4428F"
+      }
+    },
+    {
+      "case_index": 143,
+      "strange_patterns": [
+        "Palindrome: 44844"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1096,
+        "total_receipts_amount": 1690.22
+      },
+      "output": 1894.85,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "448",
+        "receipts": "44D3470A",
+        "output": "44ECDB33",
+        "combined": "944844D3470A44ECDB33"
+      }
+    },
+    {
+      "case_index": 144,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 913,
+        "total_receipts_amount": 1021.29
+      },
+      "output": 1964.86,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "391",
+        "receipts": "447F528F",
+        "output": "44F59B85",
+        "combined": "9391447F528F44F59B85"
+      }
+    },
+    {
+      "case_index": 145,
+      "strange_patterns": [
+        "Sequential pattern: 9876"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 1006,
+        "total_receipts_amount": 1219.71
+      },
+      "output": 1803.97,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "3EE",
+        "receipts": "449876B8",
+        "output": "44E17F0A",
+        "combined": "63EE449876B844E17F0A"
+      }
+    },
+    {
+      "case_index": 149,
+      "strange_patterns": [
+        "Palindrome: F88F"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 835,
+        "total_receipts_amount": 1404.28
+      },
+      "output": 1765.79,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "343",
+        "receipts": "44AF88F6",
+        "output": "44DCB948",
+        "combined": "634344AF88F644DCB948"
+      }
+    },
+    {
+      "case_index": 151,
+      "strange_patterns": [
+        "Palindrome: 17D71"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 69,
+        "total_receipts_amount": 2321.49
+      },
+      "output": 322,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "45",
+        "receipts": "451117D7",
+        "output": "142",
+        "combined": "445451117D7142"
+      }
+    },
+    {
+      "case_index": 162,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 1145,
+        "total_receipts_amount": 311.43
+      },
+      "output": 1366.61,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "479",
+        "receipts": "439BB70A",
+        "output": "44AAD385",
+        "combined": "A479439BB70A44AAD385"
+      }
+    },
+    {
+      "case_index": 166,
+      "strange_patterns": [
+        "Palindrome: 3443"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 1076,
+        "total_receipts_amount": 190.33
+      },
+      "output": 879.65,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "434",
+        "receipts": "433E547B",
+        "output": "445BE99A",
+        "combined": "5434433E547B445BE99A"
+      }
+    },
+    {
+      "case_index": 168,
+      "strange_patterns": [
+        "Palindrome: 44244"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 948,
+        "total_receipts_amount": 657.17
+      },
+      "output": 1578.97,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "3B4",
+        "receipts": "44244AE1",
+        "output": "44C55F0A",
+        "combined": "73B444244AE144C55F0A"
+      }
+    },
+    {
+      "case_index": 170,
+      "strange_patterns": [
+        "Palindrome: 54445"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 362,
+        "total_receipts_amount": 646.43
+      },
+      "output": 788.53,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "16A",
+        "receipts": "44219B85",
+        "output": "444521EC",
+        "combined": "416A44219B85444521EC"
+      }
+    },
+    {
+      "case_index": 171,
+      "strange_patterns": [
+        "Palindrome: E44E"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 622,
+        "total_receipts_amount": 1871.56
+      },
+      "output": 1494.23,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "26E",
+        "receipts": "44E9F1EC",
+        "output": "44BAC75C",
+        "combined": "226E44E9F1EC44BAC75C"
+      }
+    },
+    {
+      "case_index": 182,
+      "strange_patterns": [
+        "Palindrome: 7CC7"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 456,
+        "total_receipts_amount": 2390.7
+      },
+      "output": 1342.39,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "1C8",
+        "receipts": "45156B33",
+        "output": "44A7CC7B",
+        "combined": "21C845156B3344A7CC7B"
+      }
+    },
+    {
+      "case_index": 183,
+      "strange_patterns": [
+        "Palindrome: 4224"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 733,
+        "total_receipts_amount": 41.18
+      },
+      "output": 771.83,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "2DD",
+        "receipts": "4224B852",
+        "output": "4440F51F",
+        "combined": "52DD4224B8524440F51F"
+      }
+    },
+    {
+      "case_index": 184,
+      "strange_patterns": [
+        "Sequential pattern: 1234"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 291,
+        "total_receipts_amount": 1279.7
+      },
+      "output": 1477.12,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "123",
+        "receipts": "449FF666",
+        "output": "44B8A3D7",
+        "combined": "5123449FF66644B8A3D7"
+      }
+    },
+    {
+      "case_index": 188,
+      "strange_patterns": [
+        "Palindrome: E44E"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 958,
+        "total_receipts_amount": 1855.58
+      },
+      "output": 1549.54,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "3BE",
+        "receipts": "44E7F28F",
+        "output": "44C1B148",
+        "combined": "23BE44E7F28F44C1B148"
+      }
+    },
+    {
+      "case_index": 201,
+      "strange_patterns": [
+        "Palindrome: 2C0C2"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 125,
+        "total_receipts_amount": 96.38
+      },
+      "output": 570.99,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "7D",
+        "receipts": "42C0C28F",
+        "output": "440EBF5C",
+        "combined": "57D42C0C28F440EBF5C"
+      }
+    },
+    {
+      "case_index": 202,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 597,
+        "total_receipts_amount": 888.84
+      },
+      "output": 1395.65,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "255",
+        "receipts": "445E35C3",
+        "output": "44AE74CD",
+        "combined": "6255445E35C344AE74CD"
+      }
+    },
+    {
+      "case_index": 203,
+      "strange_patterns": [
+        "Repeating digits: {'3'}",
+        "Palindrome: 3333",
+        "Palindrome: 00800"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 1065,
+        "total_receipts_amount": 203.2
+      },
+      "output": 1408.25,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "429",
+        "receipts": "434B3333",
+        "output": "44B00800",
+        "combined": "C429434B333344B00800"
+      }
+    },
+    {
+      "case_index": 205,
+      "strange_patterns": [
+        "Palindrome: 6446"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 886,
+        "total_receipts_amount": 922.66
+      },
+      "output": 1852.24,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "376",
+        "receipts": "4466AA3D",
+        "output": "44E787AE",
+        "combined": "B3764466AA3D44E787AE"
+      }
+    },
+    {
+      "case_index": 218,
+      "strange_patterns": [
+        "Palindrome: 44644"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 1124,
+        "total_receipts_amount": 2177.18
+      },
+      "output": 1567.43,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "464",
+        "receipts": "450812E1",
+        "output": "44C3EDC3",
+        "combined": "4464450812E144C3EDC3"
+      }
+    },
+    {
+      "case_index": 231,
+      "strange_patterns": [
+        "Palindrome: C5775C",
+        "Palindrome: 5775"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 211,
+        "total_receipts_amount": 1048.29
+      },
+      "output": 1579.73,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "D3",
+        "receipts": "44830948",
+        "output": "44C5775C",
+        "combined": "CD34483094844C5775C"
+      }
+    },
+    {
+      "case_index": 244,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 332,
+        "total_receipts_amount": 1352.48
+      },
+      "output": 1663.39,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "14C",
+        "receipts": "44A90F5C",
+        "output": "44CFEC7B",
+        "combined": "B14C44A90F5C44CFEC7B"
+      }
+    },
+    {
+      "case_index": 256,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 524,
+        "total_receipts_amount": 2367.12
+      },
+      "output": 1640.78,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "20C",
+        "receipts": "4513F1EC",
+        "output": "44CD18F6",
+        "combined": "920C4513F1EC44CD18F6"
+      }
+    },
+    {
+      "case_index": 261,
+      "strange_patterns": [
+        "Palindrome: 4664"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 1126,
+        "total_receipts_amount": 1593.03
+      },
+      "output": 2143.74,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "466",
+        "receipts": "44C720F6",
+        "output": "4505FBD7",
+        "combined": "B46644C720F64505FBD7"
+      }
+    },
+    {
+      "case_index": 269,
+      "strange_patterns": [
+        "Palindrome: 4884"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 448,
+        "total_receipts_amount": 732.79
+      },
+      "output": 1090.35,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "1C0",
+        "receipts": "4437328F",
+        "output": "44884B33",
+        "combined": "B1C04437328F44884B33"
+      }
+    },
+    {
+      "case_index": 273,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1166,
+        "total_receipts_amount": 530.44
+      },
+      "output": 785.59,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "48E",
+        "receipts": "44049C29",
+        "output": "444465C3",
+        "combined": "348E44049C29444465C3"
+      }
+    },
+    {
+      "case_index": 274,
+      "strange_patterns": [
+        "Palindrome: F444F"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 17,
+        "total_receipts_amount": 550.58
+      },
+      "output": 830.07,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "11",
+        "receipts": "4409A51F",
+        "output": "444F847B",
+        "combined": "B114409A51F444F847B"
+      }
+    },
+    {
+      "case_index": 276,
+      "strange_patterns": [
+        "Palindrome: 41314"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 305,
+        "total_receipts_amount": 125.79
+      },
+      "output": 664.43,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "131",
+        "receipts": "42FB947B",
+        "output": "44261B85",
+        "combined": "413142FB947B44261B85"
+      }
+    },
+    {
+      "case_index": 285,
+      "strange_patterns": [
+        "Palindrome: 8228"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 266,
+        "total_receipts_amount": 2178.16
+      },
+      "output": 1447.95,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "10A",
+        "receipts": "4508228F",
+        "output": "44B4FE66",
+        "combined": "310A4508228F44B4FE66"
+      }
+    },
+    {
+      "case_index": 291,
+      "strange_patterns": [
+        "Palindrome: 4843484",
+        "Palindrome: 84348"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1096,
+        "total_receipts_amount": 200.27
+      },
+      "output": 802.96,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "448",
+        "receipts": "4348451F",
+        "output": "4448BD71",
+        "combined": "34484348451F4448BD71"
+      }
+    },
+    {
+      "case_index": 305,
+      "strange_patterns": [
+        "Palindrome: 2EE2"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 547,
+        "total_receipts_amount": 119.09
+      },
+      "output": 509.52,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "223",
+        "receipts": "42EE2E14",
+        "output": "43FEC28F",
+        "combined": "222342EE2E1443FEC28F"
+      }
+    },
+    {
+      "case_index": 306,
+      "strange_patterns": [
+        "Palindrome: 6446"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 265,
+        "total_receipts_amount": 218.66
+      },
+      "output": 949.34,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "109",
+        "receipts": "435AA8F6",
+        "output": "446D55C3",
+        "combined": "B109435AA8F6446D55C3"
+      }
+    },
+    {
+      "case_index": 308,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 959,
+        "total_receipts_amount": 1947.82
+      },
+      "output": 1833.24,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "3BF",
+        "receipts": "44F37A3D",
+        "output": "44E527AE",
+        "combined": "C3BF44F37A3D44E527AE"
+      }
+    },
+    {
+      "case_index": 317,
+      "strange_patterns": [
+        "Palindrome: E44E"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 1034,
+        "total_receipts_amount": 2477.98
+      },
+      "output": 1842.24,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "40A",
+        "receipts": "451ADFAE",
+        "output": "44E647AE",
+        "combined": "D40A451ADFAE44E647AE"
+      }
+    },
+    {
+      "case_index": 323,
+      "strange_patterns": [
+        "Palindrome: 4664"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 1126,
+        "total_receipts_amount": 1103.75
+      },
+      "output": 2014.72,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "466",
+        "receipts": "4489F800",
+        "output": "44FBD70A",
+        "combined": "74664489F80044FBD70A"
+      }
+    },
+    {
+      "case_index": 325,
+      "strange_patterns": [
+        "Palindrome: 4884"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 831,
+        "total_receipts_amount": 591.65
+      },
+      "output": 1090.31,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "33F",
+        "receipts": "4413E99A",
+        "output": "448849EC",
+        "combined": "533F4413E99A448849EC"
+      }
+    },
+    {
+      "case_index": 326,
+      "strange_patterns": [
+        "Palindrome: 44144",
+        "Palindrome: 45054"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 1089,
+        "total_receipts_amount": 1026.25
+      },
+      "output": 2132.85,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "441",
+        "receipts": "44804800",
+        "output": "45054D9A",
+        "combined": "74414480480045054D9A"
+      }
+    },
+    {
+      "case_index": 336,
+      "strange_patterns": [
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 763,
+        "total_receipts_amount": 1420.94
+      },
+      "output": 1777.14,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "2FB",
+        "receipts": "44B19E14",
+        "output": "44DE247B",
+        "combined": "52FB44B19E1444DE247B"
+      }
+    },
+    {
+      "case_index": 352,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 660,
+        "total_receipts_amount": 1944.4
+      },
+      "output": 1531.2,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "294",
+        "receipts": "44F30CCD",
+        "output": "44BF6666",
+        "combined": "229444F30CCD44BF6666"
+      }
+    },
+    {
+      "case_index": 356,
+      "strange_patterns": [
+        "Palindrome: 44A44"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 1139,
+        "total_receipts_amount": 124.65
+      },
+      "output": 1314.3,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "473",
+        "receipts": "42F94CCD",
+        "output": "44A4499A",
+        "combined": "C47342F94CCD44A4499A"
+      }
+    },
+    {
+      "case_index": 358,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 796,
+        "total_receipts_amount": 1352.08
+      },
+      "output": 2000.19,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "31C",
+        "receipts": "44A9028F",
+        "output": "44FA0614",
+        "combined": "A31C44A9028F44FA0614"
+      }
+    },
+    {
+      "case_index": 363,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 467,
+        "total_receipts_amount": 1243.31
+      },
+      "output": 1549.82,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "1D3",
+        "receipts": "449B69EC",
+        "output": "44C1BA3D",
+        "combined": "51D3449B69EC44C1BA3D"
+      }
+    },
+    {
+      "case_index": 365,
+      "strange_patterns": [
+        "Palindrome: 9449"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 777,
+        "total_receipts_amount": 1248.61
+      },
+      "output": 1837.25,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "309",
+        "receipts": "449C1385",
+        "output": "44E5A800",
+        "combined": "E309449C138544E5A800"
+      }
+    },
+    {
+      "case_index": 369,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 825,
+        "total_receipts_amount": 874.99
+      },
+      "output": 784.52,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "339",
+        "receipts": "445ABF5C",
+        "output": "44442148",
+        "combined": "4339445ABF5C44442148"
+      }
+    },
+    {
+      "case_index": 376,
+      "strange_patterns": [
+        "Palindrome: 4AA4"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 752,
+        "total_receipts_amount": 1632.35
+      },
+      "output": 1362.39,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "2F0",
+        "receipts": "44CC0B33",
+        "output": "44AA4C7B",
+        "combined": "12F044CC0B3344AA4C7B"
+      }
+    },
+    {
+      "case_index": 377,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 1014,
+        "total_receipts_amount": 1853.57
+      },
+      "output": 1749.31,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "3F6",
+        "receipts": "44E7B23D",
+        "output": "44DAA9EC",
+        "combined": "53F644E7B23D44DAA9EC"
+      }
+    },
+    {
+      "case_index": 381,
+      "strange_patterns": [
+        "Palindrome: A444A"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1080,
+        "total_receipts_amount": 539.51
+      },
+      "output": 1306.91,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "438",
+        "receipts": "4406E0A4",
+        "output": "44A35D1F",
+        "combined": "94384406E0A444A35D1F"
+      }
+    },
+    {
+      "case_index": 386,
+      "strange_patterns": [
+        "Palindrome: 4A99A4",
+        "Palindrome: A99A"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 651,
+        "total_receipts_amount": 1573.3
+      },
+      "output": 1682.08,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "28B",
+        "receipts": "44C4A99A",
+        "output": "44D2428F",
+        "combined": "528B44C4A99A44D2428F"
+      }
+    },
+    {
+      "case_index": 393,
+      "strange_patterns": [
+        "Palindrome: 54445"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 84,
+        "total_receipts_amount": 852.7
+      },
+      "output": 1109.32,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "54",
+        "receipts": "44552CCD",
+        "output": "448AAA3D",
+        "combined": "65444552CCD448AAA3D"
+      }
+    },
+    {
+      "case_index": 397,
+      "strange_patterns": [
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 200,
+        "total_receipts_amount": 1508.89
+      },
+      "output": 1461.33,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "C8",
+        "receipts": "44BC9C7B",
+        "output": "44B6AA8F",
+        "combined": "8C844BC9C7B44B6AA8F"
+      }
+    },
+    {
+      "case_index": 398,
+      "strange_patterns": [
+        "Palindrome: 44E44"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1102,
+        "total_receipts_amount": 540.6
+      },
+      "output": 1455.85,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "44E",
+        "receipts": "44072666",
+        "output": "44B5FB33",
+        "combined": "944E4407266644B5FB33"
+      }
+    },
+    {
+      "case_index": 400,
+      "strange_patterns": [
+        "Palindrome: 4004"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 1024,
+        "total_receipts_amount": 1712.85
+      },
+      "output": 2097.69,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "400",
+        "receipts": "44D61B33",
+        "output": "45031B0A",
+        "combined": "D40044D61B3345031B0A"
+      }
+    },
+    {
+      "case_index": 403,
+      "strange_patterns": [
+        "Palindrome: E444E"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 996,
+        "total_receipts_amount": 1809.2
+      },
+      "output": 1956.89,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "3E4",
+        "receipts": "44E22666",
+        "output": "44F49C7B",
+        "combined": "D3E444E2266644F49C7B"
+      }
+    },
+    {
+      "case_index": 404,
+      "strange_patterns": [
+        "Palindrome: 4884"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 1160,
+        "total_receipts_amount": 1901.83
+      },
+      "output": 1673.89,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "488",
+        "receipts": "44EDBA8F",
+        "output": "44D13C7B",
+        "combined": "548844EDBA8F44D13C7B"
+      }
+    },
+    {
+      "case_index": 405,
+      "strange_patterns": [
+        "Palindrome: 3993"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 1139,
+        "total_receipts_amount": 306.43
+      },
+      "output": 726.14,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "473",
+        "receipts": "4399370A",
+        "output": "443588F6",
+        "combined": "24734399370A443588F6"
+      }
+    },
+    {
+      "case_index": 408,
+      "strange_patterns": [
+        "Palindrome: E44E"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 414,
+        "total_receipts_amount": 1919.7
+      },
+      "output": 1918.89,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "19E",
+        "receipts": "44EFF666",
+        "output": "44EFDC7B",
+        "combined": "E19E44EFF66644EFDC7B"
+      }
+    },
+    {
+      "case_index": 409,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 847,
+        "total_receipts_amount": 1994.62
+      },
+      "output": 1851.7,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "34F",
+        "receipts": "44F953D7",
+        "output": "44E77666",
+        "combined": "734F44F953D744E77666"
+      }
+    },
+    {
+      "case_index": 413,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 773,
+        "total_receipts_amount": 865.92
+      },
+      "output": 1837.11,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "305",
+        "receipts": "44587AE1",
+        "output": "44E5A385",
+        "combined": "A30544587AE144E5A385"
+      }
+    },
+    {
+      "case_index": 417,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 828,
+        "total_receipts_amount": 1606.84
+      },
+      "output": 1690.82,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "33C",
+        "receipts": "44C8DAE1",
+        "output": "44D35A3D",
+        "combined": "533C44C8DAE144D35A3D"
+      }
+    },
+    {
+      "case_index": 418,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 458,
+        "total_receipts_amount": 1364.29
+      },
+      "output": 1649.04,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "1CA",
+        "receipts": "44AA8948",
+        "output": "44CE2148",
+        "combined": "B1CA44AA894844CE2148"
+      }
+    },
+    {
+      "case_index": 426,
+      "strange_patterns": [
+        "Palindrome: 6446"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 235,
+        "total_receipts_amount": 426.07
+      },
+      "output": 897.26,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "EB",
+        "receipts": "43D508F6",
+        "output": "446050A4",
+        "combined": "DEB43D508F6446050A4"
+      }
+    },
+    {
+      "case_index": 427,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 635,
+        "total_receipts_amount": 1406.31
+      },
+      "output": 1630.66,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "27B",
+        "receipts": "44AFC9EC",
+        "output": "44CBD51F",
+        "combined": "727B44AFC9EC44CBD51F"
+      }
+    },
+    {
+      "case_index": 431,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 1187,
+        "total_receipts_amount": 1045.91
+      },
+      "output": 2047.06,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "4A3",
+        "receipts": "4482BD1F",
+        "output": "44FFE1EC",
+        "combined": "84A34482BD1F44FFE1EC"
+      }
+    },
+    {
+      "case_index": 432,
+      "strange_patterns": [
+        "Palindrome: 8448"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 600,
+        "total_receipts_amount": 1120.05
+      },
+      "output": 1847.84,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "258",
+        "receipts": "448C019A",
+        "output": "44E6FAE1",
+        "combined": "E258448C019A44E6FAE1"
+      }
+    },
+    {
+      "case_index": 442,
+      "strange_patterns": [
+        "Palindrome: 1441"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 75,
+        "total_receipts_amount": 315.71
+      },
+      "output": 593.83,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "4B",
+        "receipts": "439DDAE1",
+        "output": "4414751F",
+        "combined": "84B439DDAE14414751F"
+      }
+    },
+    {
+      "case_index": 470,
+      "strange_patterns": [
+        "Palindrome: 4AA4"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 1194,
+        "total_receipts_amount": 2250.51
+      },
+      "output": 1691.15,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "4AA",
+        "receipts": "450CA829",
+        "output": "44D364CD",
+        "combined": "44AA450CA82944D364CD"
+      }
+    },
+    {
+      "case_index": 478,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 754,
+        "total_receipts_amount": 1220.47
+      },
+      "output": 1346.14,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "2F2",
+        "receipts": "44988F0A",
+        "output": "44A8447B",
+        "combined": "12F244988F0A44A8447B"
+      }
+    },
+    {
+      "case_index": 481,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 592,
+        "total_receipts_amount": 1402.98
+      },
+      "output": 1561.41,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "250",
+        "receipts": "44AF5F5C",
+        "output": "44C32D1F",
+        "combined": "825044AF5F5C44C32D1F"
+      }
+    },
+    {
+      "case_index": 485,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444",
+        "Palindrome: 44444",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1092,
+        "total_receipts_amount": 1737.65
+      },
+      "output": 1462.01,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "444",
+        "receipts": "44D934CD",
+        "output": "44B6C052",
+        "combined": "344444D934CD44B6C052"
+      }
+    },
+    {
+      "case_index": 492,
+      "strange_patterns": [
+        "Palindrome: C44C",
+        "Palindrome: 9119"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 323,
+        "total_receipts_amount": 1477.23
+      },
+      "output": 1608.55,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "143",
+        "receipts": "44B8A75C",
+        "output": "44C9119A",
+        "combined": "614344B8A75C44C9119A"
+      }
+    },
+    {
+      "case_index": 496,
+      "strange_patterns": [
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1187,
+        "total_receipts_amount": 1632.14
+      },
+      "output": 1451.85,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "4A3",
+        "receipts": "44CC047B",
+        "output": "44B57B33",
+        "combined": "34A344CC047B44B57B33"
+      }
+    },
+    {
+      "case_index": 497,
+      "strange_patterns": [
+        "Sequential pattern: 5432"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1013,
+        "total_receipts_amount": 166.52
+      },
+      "output": 711.07,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "3F5",
+        "receipts": "4326851F",
+        "output": "4431C47B",
+        "combined": "33F54326851F4431C47B"
+      }
+    },
+    {
+      "case_index": 505,
+      "strange_patterns": [
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 132,
+        "total_receipts_amount": 2387.03
+      },
+      "output": 1454.05,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "84",
+        "receipts": "4515307B",
+        "output": "44B5C19A",
+        "combined": "5844515307B44B5C19A"
+      }
+    },
+    {
+      "case_index": 514,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 463,
+        "total_receipts_amount": 1963.41
+      },
+      "output": 1607.34,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "1CF",
+        "receipts": "44F56D1F",
+        "output": "44C8EAE1",
+        "combined": "41CF44F56D1F44C8EAE1"
+      }
+    },
+    {
+      "case_index": 533,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 367,
+        "total_receipts_amount": 1947.68
+      },
+      "output": 1606.76,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "16F",
+        "receipts": "44F375C3",
+        "output": "44C8D852",
+        "combined": "616F44F375C344C8D852"
+      }
+    },
+    {
+      "case_index": 545,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 5,
+        "total_receipts_amount": 836.86
+      },
+      "output": 1116.56,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "5",
+        "receipts": "4451370A",
+        "output": "448B91EC",
+        "combined": "A54451370A448B91EC"
+      }
+    },
+    {
+      "case_index": 546,
+      "strange_patterns": [
+        "Palindrome: 0440"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 80,
+        "total_receipts_amount": 517.54
+      },
+      "output": 457.49,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "50",
+        "receipts": "4401628F",
+        "output": "43E4BEB8",
+        "combined": "3504401628F43E4BEB8"
+      }
+    },
+    {
+      "case_index": 549,
+      "strange_patterns": [
+        "Palindrome: 4334"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 1075,
+        "total_receipts_amount": 2328.11
+      },
+      "output": 1798.38,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "433",
+        "receipts": "451181C3",
+        "output": "44E0CC29",
+        "combined": "C433451181C344E0CC29"
+      }
+    },
+    {
+      "case_index": 551,
+      "strange_patterns": [
+        "Palindrome: DCCD"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 323,
+        "total_receipts_amount": 46.48
+      },
+      "output": 703.45,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "143",
+        "receipts": "4239EB85",
+        "output": "442FDCCD",
+        "combined": "81434239EB85442FDCCD"
+      }
+    },
+    {
+      "case_index": 552,
+      "strange_patterns": [
+        "Palindrome: E1C1E"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 527,
+        "total_receipts_amount": 1550.32
+      },
+      "output": 1806.06,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "20F",
+        "receipts": "44C1CA3D",
+        "output": "44E1C1EC",
+        "combined": "B20F44C1CA3D44E1C1EC"
+      }
+    },
+    {
+      "case_index": 556,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 32,
+        "total_receipts_amount": 232.43
+      },
+      "output": 805.12,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "20",
+        "receipts": "43686E14",
+        "output": "444947AE",
+        "combined": "D2043686E14444947AE"
+      }
+    },
+    {
+      "case_index": 559,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 1105,
+        "total_receipts_amount": 1432.3
+      },
+      "output": 1387.17,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "451",
+        "receipts": "44B3099A",
+        "output": "44AD6571",
+        "combined": "145144B3099A44AD6571"
+      }
+    },
+    {
+      "case_index": 560,
+      "strange_patterns": [
+        "Palindrome: 2CC2"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 178,
+        "total_receipts_amount": 507.59
+      },
+      "output": 907.19,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "B2",
+        "receipts": "43FDCB85",
+        "output": "4462CC29",
+        "combined": "CB243FDCB854462CC29"
+      }
+    },
+    {
+      "case_index": 563,
+      "strange_patterns": [
+        "Palindrome: 3443"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 771,
+        "total_receipts_amount": 725.67
+      },
+      "output": 1166.93,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "303",
+        "receipts": "44356AE1",
+        "output": "4491DDC3",
+        "combined": "330344356AE14491DDC3"
+      }
+    },
+    {
+      "case_index": 566,
+      "strange_patterns": [
+        "Repeating digits: {'3'}",
+        "Palindrome: 3333"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 1077,
+        "total_receipts_amount": 32.55
+      },
+      "output": 1387.43,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "435",
+        "receipts": "42023333",
+        "output": "44AD6DC3",
+        "combined": "C4354202333344AD6DC3"
+      }
+    },
+    {
+      "case_index": 567,
+      "strange_patterns": [
+        "Palindrome: 3443"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 211,
+        "total_receipts_amount": 749.56
+      },
+      "output": 1285.23,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "D3",
+        "receipts": "443B63D7",
+        "output": "44A0A75C",
+        "combined": "CD3443B63D744A0A75C"
+      }
+    },
+    {
+      "case_index": 571,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 797,
+        "total_receipts_amount": 1706.73
+      },
+      "output": 1724.42,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "31D",
+        "receipts": "44D5575C",
+        "output": "44D78D71",
+        "combined": "A31D44D5575C44D78D71"
+      }
+    },
+    {
+      "case_index": 572,
+      "strange_patterns": [
+        "Palindrome: 40004"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 657,
+        "total_receipts_amount": 322.5
+      },
+      "output": 1113.16,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "291",
+        "receipts": "43A14000",
+        "output": "448B251F",
+        "combined": "C29143A14000448B251F"
+      }
+    },
+    {
+      "case_index": 579,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 877,
+        "total_receipts_amount": 1711.12
+      },
+      "output": 1897.37,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "36D",
+        "receipts": "44D5E3D7",
+        "output": "44ED2BD7",
+        "combined": "A36D44D5E3D744ED2BD7"
+      }
+    },
+    {
+      "case_index": 580,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 250,
+        "total_receipts_amount": 1300.17
+      },
+      "output": 1145.33,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "FA",
+        "receipts": "44A28571",
+        "output": "448F2A8F",
+        "combined": "1FA44A28571448F2A8F"
+      }
+    },
+    {
+      "case_index": 584,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: C4444C",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 452,
+        "total_receipts_amount": 816.56
+      },
+      "output": 1243.1,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "1C4",
+        "receipts": "444C23D7",
+        "output": "449B6333",
+        "combined": "C1C4444C23D7449B6333"
+      }
+    },
+    {
+      "case_index": 593,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 68,
+        "total_receipts_amount": 756.61
+      },
+      "output": 648.53,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "44",
+        "receipts": "443D270A",
+        "output": "442221EC",
+        "combined": "244443D270A442221EC"
+      }
+    },
+    {
+      "case_index": 594,
+      "strange_patterns": [
+        "Palindrome: 0440"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 512,
+        "total_receipts_amount": 526.84
+      },
+      "output": 1306.64,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "200",
+        "receipts": "4403B5C3",
+        "output": "44A3547B",
+        "combined": "E2004403B5C344A3547B"
+      }
+    },
+    {
+      "case_index": 596,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 547,
+        "total_receipts_amount": 573.6
+      },
+      "output": 616.27,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "223",
+        "receipts": "440F6666",
+        "output": "441A1148",
+        "combined": "1223440F6666441A1148"
+      }
+    },
+    {
+      "case_index": 603,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 344443",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 836,
+        "total_receipts_amount": 735.52
+      },
+      "output": 1606.63,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "344",
+        "receipts": "4437E148",
+        "output": "44C8D429",
+        "combined": "83444437E14844C8D429"
+      }
+    },
+    {
+      "case_index": 607,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 96,
+        "total_receipts_amount": 1105.47
+      },
+      "output": 1312.16,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "60",
+        "receipts": "448A2F0A",
+        "output": "44A4051F",
+        "combined": "560448A2F0A44A4051F"
+      }
+    },
+    {
+      "case_index": 609,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 495,
+        "total_receipts_amount": 1948.13
+      },
+      "output": 1831.92,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "1EF",
+        "receipts": "44F38429",
+        "output": "44E4FD71",
+        "combined": "C1EF44F3842944E4FD71"
+      }
+    },
+    {
+      "case_index": 614,
+      "strange_patterns": [
+        "Palindrome: 0440"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 816,
+        "total_receipts_amount": 544.99
+      },
+      "output": 1077.12,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "330",
+        "receipts": "44083F5C",
+        "output": "4486A3D7",
+        "combined": "B33044083F5C4486A3D7"
+      }
+    },
+    {
+      "case_index": 620,
+      "strange_patterns": [
+        "Palindrome: 44844"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 72,
+        "total_receipts_amount": 1367.29
+      },
+      "output": 1302.97,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "48",
+        "receipts": "44AAE948",
+        "output": "44A2DF0A",
+        "combined": "44844AAE94844A2DF0A"
+      }
+    },
+    {
+      "case_index": 624,
+      "strange_patterns": [
+        "Palindrome: 7447"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 327,
+        "total_receipts_amount": 961.08
+      },
+      "output": 1356.46,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "147",
+        "receipts": "4470451F",
+        "output": "44A98EB8",
+        "combined": "B1474470451F44A98EB8"
+      }
+    },
+    {
+      "case_index": 625,
+      "strange_patterns": [
+        "Palindrome: 49394"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 94,
+        "total_receipts_amount": 105.94
+      },
+      "output": 1180.63,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "5E",
+        "receipts": "42D3E148",
+        "output": "44939429",
+        "combined": "E5E42D3E14844939429"
+      }
+    },
+    {
+      "case_index": 629,
+      "strange_patterns": [
+        "Palindrome: 9449"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 625,
+        "total_receipts_amount": 519.94
+      },
+      "output": 1229.41,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "271",
+        "receipts": "4401FC29",
+        "output": "4499AD1F",
+        "combined": "A2714401FC294499AD1F"
+      }
+    },
+    {
+      "case_index": 633,
+      "strange_patterns": [
+        "Palindrome: 1EE1"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 769,
+        "total_receipts_amount": 2497.93
+      },
+      "output": 1587.8,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "301",
+        "receipts": "451C1EE1",
+        "output": "44C6799A",
+        "combined": "3301451C1EE144C6799A"
+      }
+    },
+    {
+      "case_index": 635,
+      "strange_patterns": [
+        "Palindrome: 44044",
+        "Palindrome: B66B"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 1088,
+        "total_receipts_amount": 1977.91
+      },
+      "output": 1883.21,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "440",
+        "receipts": "44F73D1F",
+        "output": "44EB66B8",
+        "combined": "C44044F73D1F44EB66B8"
+      }
+    },
+    {
+      "case_index": 639,
+      "strange_patterns": [
+        "Palindrome: 4554"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1109,
+        "total_receipts_amount": 2092.26
+      },
+      "output": 1436.66,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "455",
+        "receipts": "4502C429",
+        "output": "44B3951F",
+        "combined": "34554502C42944B3951F"
+      }
+    },
+    {
+      "case_index": 641,
+      "strange_patterns": [
+        "Palindrome: 2442"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 521,
+        "total_receipts_amount": 467.19
+      },
+      "output": 667.85,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "209",
+        "receipts": "43E99852",
+        "output": "4426F666",
+        "combined": "220943E998524426F666"
+      }
+    },
+    {
+      "case_index": 660,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 1065,
+        "total_receipts_amount": 119.34
+      },
+      "output": 781.82,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "429",
+        "receipts": "42EEAE14",
+        "output": "4443747B",
+        "combined": "442942EEAE144443747B"
+      }
+    },
+    {
+      "case_index": 670,
+      "strange_patterns": [
+        "Palindrome: 7447",
+        "Palindrome: DCCD"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 1191,
+        "total_receipts_amount": 999.45
+      },
+      "output": 1478.93,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "4A7",
+        "receipts": "4479DCCD",
+        "output": "44B8DDC3",
+        "combined": "44A74479DCCD44B8DDC3"
+      }
+    },
+    {
+      "case_index": 687,
+      "strange_patterns": [
+        "Palindrome: 443344",
+        "Palindrome: 4334"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 1075,
+        "total_receipts_amount": 586.17
+      },
+      "output": 1023.65,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "433",
+        "receipts": "44128AE1",
+        "output": "447FE99A",
+        "combined": "443344128AE1447FE99A"
+      }
+    },
+    {
+      "case_index": 688,
+      "strange_patterns": [
+        "Palindrome: 4774"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 1143,
+        "total_receipts_amount": 1217.72
+      },
+      "output": 1745.09,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "477",
+        "receipts": "4498370A",
+        "output": "44DA22E1",
+        "combined": "54774498370A44DA22E1"
+      }
+    },
+    {
+      "case_index": 691,
+      "strange_patterns": [
+        "Palindrome: 3443"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 248,
+        "total_receipts_amount": 395.4
+      },
+      "output": 710.15,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "F8",
+        "receipts": "43C5B333",
+        "output": "4431899A",
+        "combined": "6F843C5B3334431899A"
+      }
+    },
+    {
+      "case_index": 697,
+      "strange_patterns": [
+        "Palindrome: 3443"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 52,
+        "total_receipts_amount": 350.58
+      },
+      "output": 601.81,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "34",
+        "receipts": "43AF4A3D",
+        "output": "441673D7",
+        "combined": "93443AF4A3D441673D7"
+      }
+    },
+    {
+      "case_index": 698,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 976,
+        "total_receipts_amount": 1526.58
+      },
+      "output": 1995.87,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "3D0",
+        "receipts": "44BED28F",
+        "output": "44F97BD7",
+        "combined": "E3D044BED28F44F97BD7"
+      }
+    },
+    {
+      "case_index": 702,
+      "strange_patterns": [
+        "Palindrome: 7B44B7",
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 691,
+        "total_receipts_amount": 1030.64
+      },
+      "output": 1465.26,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "2B3",
+        "receipts": "4480D47B",
+        "output": "44B72852",
+        "combined": "52B34480D47B44B72852"
+      }
+    },
+    {
+      "case_index": 707,
+      "strange_patterns": [
+        "Repeating digits: {'0'}",
+        "Palindrome: 0000"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 803,
+        "total_receipts_amount": 12.75
+      },
+      "output": 1146.78,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "323",
+        "receipts": "414C0000",
+        "output": "448F58F6",
+        "combined": "7323414C0000448F58F6"
+      }
+    },
+    {
+      "case_index": 712,
+      "strange_patterns": [
+        "Palindrome: 4224"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 1058,
+        "total_receipts_amount": 1601.04
+      },
+      "output": 1465.9,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "422",
+        "receipts": "44C82148",
+        "output": "44B73CCD",
+        "combined": "142244C8214844B73CCD"
+      }
+    },
+    {
+      "case_index": 716,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666",
+        "Palindrome: 6446"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 831,
+        "total_receipts_amount": 432.8
+      },
+      "output": 901.36,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "33F",
+        "receipts": "43D86666",
+        "output": "4461570A",
+        "combined": "533F43D866664461570A"
+      }
+    },
+    {
+      "case_index": 717,
+      "strange_patterns": [
+        "Repeating digits: {'6'}",
+        "Palindrome: 6666"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 709,
+        "total_receipts_amount": 320.8
+      },
+      "output": 1116.62,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "2C5",
+        "receipts": "43A06666",
+        "output": "448B93D7",
+        "combined": "72C543A06666448B93D7"
+      }
+    },
+    {
+      "case_index": 718,
+      "strange_patterns": [
+        "Sequential pattern: 4321"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1078,
+        "total_receipts_amount": 161.85
+      },
+      "output": 1260.96,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "436",
+        "receipts": "4321D99A",
+        "output": "449D9EB8",
+        "combined": "94364321D99A449D9EB8"
+      }
+    },
+    {
+      "case_index": 727,
+      "strange_patterns": [
+        "Palindrome: 1EAE1"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 553,
+        "total_receipts_amount": 1687.11
+      },
+      "output": 1295.34,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "229",
+        "receipts": "44D2E385",
+        "output": "44A1EAE1",
+        "combined": "122944D2E38544A1EAE1"
+      }
+    },
+    {
+      "case_index": 739,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 836,
+        "total_receipts_amount": 2035.17
+      },
+      "output": 1718.79,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "344",
+        "receipts": "44FE6571",
+        "output": "44D6D948",
+        "combined": "634444FE657144D6D948"
+      }
+    },
+    {
+      "case_index": 766,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 252,
+        "total_receipts_amount": 1545.94
+      },
+      "output": 1300.19,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "FC",
+        "receipts": "44C13E14",
+        "output": "44A28614",
+        "combined": "2FC44C13E1444A28614"
+      }
+    },
+    {
+      "case_index": 771,
+      "strange_patterns": [
+        "Palindrome: E44E"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 953,
+        "total_receipts_amount": 1918.24
+      },
+      "output": 1833.56,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "3B9",
+        "receipts": "44EFC7AE",
+        "output": "44E531EC",
+        "combined": "73B944EFC7AE44E531EC"
+      }
+    },
+    {
+      "case_index": 773,
+      "strange_patterns": [
+        "Palindrome: 8228"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 755,
+        "total_receipts_amount": 1584.41
+      },
+      "output": 1729.08,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "2F3",
+        "receipts": "44C60D1F",
+        "output": "44D8228F",
+        "combined": "52F344C60D1F44D8228F"
+      }
+    },
+    {
+      "case_index": 776,
+      "strange_patterns": [
+        "Palindrome: B686B"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 164,
+        "total_receipts_amount": 1460.21
+      },
+      "output": 1535.3,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "A4",
+        "receipts": "44B686B8",
+        "output": "44BFE99A",
+        "combined": "6A444B686B844BFE99A"
+      }
+    },
+    {
+      "case_index": 780,
+      "strange_patterns": [
+        "Palindrome: 4CC4"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 300,
+        "total_receipts_amount": 2417.85
+      },
+      "output": 1634.04,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "12C",
+        "receipts": "45171D9A",
+        "output": "44CC4148",
+        "combined": "712C45171D9A44CC4148"
+      }
+    },
+    {
+      "case_index": 783,
+      "strange_patterns": [
+        "Palindrome: 9449"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 1097,
+        "total_receipts_amount": 2330.2
+      },
+      "output": 1728.07,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "449",
+        "receipts": "4511A333",
+        "output": "44D8023D",
+        "combined": "94494511A33344D8023D"
+      }
+    },
+    {
+      "case_index": 792,
+      "strange_patterns": [
+        "Palindrome: 4EE4"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 1186,
+        "total_receipts_amount": 2462.26
+      },
+      "output": 1906.35,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "4A2",
+        "receipts": "4519E429",
+        "output": "44EE4B33",
+        "combined": "D4A24519E42944EE4B33"
+      }
+    },
+    {
+      "case_index": 795,
+      "strange_patterns": [
+        "Palindrome: 1EEE1"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 783,
+        "total_receipts_amount": 158.93
+      },
+      "output": 993.55,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "30F",
+        "receipts": "431EEE14",
+        "output": "44786333",
+        "combined": "A30F431EEE1444786333"
+      }
+    },
+    {
+      "case_index": 804,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 36,
+        "total_receipts_amount": 808.38
+      },
+      "output": 1190.16,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "24",
+        "receipts": "444A1852",
+        "output": "4494C51F",
+        "combined": "D24444A18524494C51F"
+      }
+    },
+    {
+      "case_index": 810,
+      "strange_patterns": [
+        "Sequential pattern: 3456"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 774,
+        "total_receipts_amount": 206.45
+      },
+      "output": 1110,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "306",
+        "receipts": "434E7333",
+        "output": "456",
+        "combined": "D306434E7333456"
+      }
+    },
+    {
+      "case_index": 812,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 862,
+        "total_receipts_amount": 2335.55
+      },
+      "output": 1698.94,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "35E",
+        "receipts": "4511F8CD",
+        "output": "44D45E14",
+        "combined": "435E4511F8CD44D45E14"
+      }
+    },
+    {
+      "case_index": 816,
+      "strange_patterns": [
+        "Palindrome: 44CC44",
+        "Palindrome: 4CC4"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 1199,
+        "total_receipts_amount": 493
+      },
+      "output": 1634.13,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "4AF",
+        "receipts": "1ED",
+        "output": "44CC4429",
+        "combined": "D4AF1ED44CC4429"
+      }
+    },
+    {
+      "case_index": 817,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 710,
+        "total_receipts_amount": 1249.41
+      },
+      "output": 1921.09,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "2C6",
+        "receipts": "449C2D1F",
+        "output": "44F022E1",
+        "combined": "C2C6449C2D1F44F022E1"
+      }
+    },
+    {
+      "case_index": 818,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 719,
+        "total_receipts_amount": 1973.14
+      },
+      "output": 1980.99,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "2CF",
+        "receipts": "44F6A47B",
+        "output": "44F79FAE",
+        "combined": "E2CF44F6A47B44F79FAE"
+      }
+    },
+    {
+      "case_index": 820,
+      "strange_patterns": [
+        "Palindrome: 3553"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 444,
+        "total_receipts_amount": 725.31
+      },
+      "output": 1062.52,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "1BC",
+        "receipts": "443553D7",
+        "output": "4484D0A4",
+        "combined": "91BC443553D74484D0A4"
+      }
+    },
+    {
+      "case_index": 822,
+      "strange_patterns": [
+        "Palindrome: 4EE4"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 238,
+        "total_receipts_amount": 1707.28
+      },
+      "output": 1483.48,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "EE",
+        "receipts": "44D568F6",
+        "output": "44B96F5C",
+        "combined": "4EE44D568F644B96F5C"
+      }
+    },
+    {
+      "case_index": 825,
+      "strange_patterns": [
+        "Palindrome: B747B"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 154,
+        "total_receipts_amount": 274.04
+      },
+      "output": 406.91,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "9A",
+        "receipts": "4389051F",
+        "output": "43CB747B",
+        "combined": "39A4389051F43CB747B"
+      }
+    },
+    {
+      "case_index": 836,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 14,
+        "miles_traveled": 805,
+        "total_receipts_amount": 834.06
+      },
+      "output": 1683.49,
+      "hex_data": {
+        "trip_days": "E",
+        "miles": "325",
+        "receipts": "445083D7",
+        "output": "44D26FAE",
+        "combined": "E325445083D744D26FAE"
+      }
+    },
+    {
+      "case_index": 845,
+      "strange_patterns": [
+        "Palindrome: D44D"
+      ],
+      "input": {
+        "trip_duration_days": 8,
+        "miles_traveled": 867,
+        "total_receipts_amount": 2373.39
+      },
+      "output": 1747.22,
+      "hex_data": {
+        "trip_days": "8",
+        "miles": "363",
+        "receipts": "4514563D",
+        "output": "44DA670A",
+        "combined": "83634514563D44DA670A"
+      }
+    },
+    {
+      "case_index": 853,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 810,
+        "total_receipts_amount": 1852.31
+      },
+      "output": 1575.87,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "32A",
+        "receipts": "44E789EC",
+        "output": "44C4FBD7",
+        "combined": "432A44E789EC44C4FBD7"
+      }
+    },
+    {
+      "case_index": 854,
+      "strange_patterns": [
+        "Palindrome: 4004"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 760,
+        "total_receipts_amount": 2073.25
+      },
+      "output": 1522.45,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "2F8",
+        "receipts": "45019400",
+        "output": "44BE4E66",
+        "combined": "32F84501940044BE4E66"
+      }
+    },
+    {
+      "case_index": 861,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 955,
+        "total_receipts_amount": 1182.33
+      },
+      "output": 1950.3,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "3BB",
+        "receipts": "4493CA8F",
+        "output": "44F3C99A",
+        "combined": "A3BB4493CA8F44F3C99A"
+      }
+    },
+    {
+      "case_index": 867,
+      "strange_patterns": [
+        "Repeating digits: {'3'}",
+        "Palindrome: 3333",
+        "Palindrome: 33333",
+        "Palindrome: 3333"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 650,
+        "total_receipts_amount": 524.8
+      },
+      "output": 1179.09,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "28A",
+        "receipts": "44033333",
+        "output": "449362E1",
+        "combined": "B28A44033333449362E1"
+      }
+    },
+    {
+      "case_index": 892,
+      "strange_patterns": [
+        "Palindrome: 5445"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 84,
+        "total_receipts_amount": 2243.12
+      },
+      "output": 1392.1,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "54",
+        "receipts": "450C31EC",
+        "output": "44AE0333",
+        "combined": "454450C31EC44AE0333"
+      }
+    },
+    {
+      "case_index": 894,
+      "strange_patterns": [
+        "Palindrome: C44C"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 18,
+        "total_receipts_amount": 2461.37
+      },
+      "output": 1556.78,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "12",
+        "receipts": "4519D5EC",
+        "output": "44C298F6",
+        "combined": "C124519D5EC44C298F6"
+      }
+    },
+    {
+      "case_index": 897,
+      "strange_patterns": [
+        "Palindrome: 4664",
+        "Palindrome: A44A",
+        "Palindrome: A717A"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 1126,
+        "total_receipts_amount": 664.9
+      },
+      "output": 1336.74,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "466",
+        "receipts": "4426399A",
+        "output": "44A717AE",
+        "combined": "54664426399A44A717AE"
+      }
+    },
+    {
+      "case_index": 898,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444",
+        "Palindrome: 43C34",
+        "Palindrome: 46664"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 1092,
+        "total_receipts_amount": 390.55
+      },
+      "output": 589.11,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "444",
+        "receipts": "43C34666",
+        "output": "4413470A",
+        "combined": "144443C346664413470A"
+      }
+    },
+    {
+      "case_index": 905,
+      "strange_patterns": [
+        "Palindrome: F1D1F"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 1158,
+        "total_receipts_amount": 2355.92
+      },
+      "output": 1528.91,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "486",
+        "receipts": "45133EB8",
+        "output": "44BF1D1F",
+        "combined": "248645133EB844BF1D1F"
+      }
+    },
+    {
+      "case_index": 913,
+      "strange_patterns": [
+        "Palindrome: F44F"
+      ],
+      "input": {
+        "trip_duration_days": 13,
+        "miles_traveled": 1055,
+        "total_receipts_amount": 2005.84
+      },
+      "output": 1997.52,
+      "hex_data": {
+        "trip_days": "D",
+        "miles": "41F",
+        "receipts": "44FABAE1",
+        "output": "44F9B0A4",
+        "combined": "D41F44FABAE144F9B0A4"
+      }
+    },
+    {
+      "case_index": 914,
+      "strange_patterns": [
+        "Palindrome: 3A343A3",
+        "Palindrome: A343A"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 931,
+        "total_receipts_amount": 327.97
+      },
+      "output": 609.73,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "3A3",
+        "receipts": "43A3FC29",
+        "output": "44186EB8",
+        "combined": "13A343A3FC2944186EB8"
+      }
+    },
+    {
+      "case_index": 920,
+      "strange_patterns": [
+        "Palindrome: 4114"
+      ],
+      "input": {
+        "trip_duration_days": 1,
+        "miles_traveled": 1041,
+        "total_receipts_amount": 1630.25
+      },
+      "output": 1466.95,
+      "hex_data": {
+        "trip_days": "1",
+        "miles": "411",
+        "receipts": "44CBC800",
+        "output": "44B75E66",
+        "combined": "141144CBC80044B75E66"
+      }
+    },
+    {
+      "case_index": 930,
+      "strange_patterns": [
+        "Repeating digits: {'4'}",
+        "Palindrome: 4444"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 1027,
+        "total_receipts_amount": 180
+      },
+      "output": 804.96,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "403",
+        "receipts": "B4",
+        "output": "44493D71",
+        "combined": "3403B444493D71"
+      }
+    },
+    {
+      "case_index": 931,
+      "strange_patterns": [
+        "Palindrome: 3113"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 275,
+        "total_receipts_amount": 543.74
+      },
+      "output": 572.73,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "113",
+        "receipts": "4407EF5C",
+        "output": "440F2EB8",
+        "combined": "31134407EF5C440F2EB8"
+      }
+    },
+    {
+      "case_index": 941,
+      "strange_patterns": [
+        "Palindrome: 484484",
+        "Palindrome: 8448"
+      ],
+      "input": {
+        "trip_duration_days": 9,
+        "miles_traveled": 191,
+        "total_receipts_amount": 789.52
+      },
+      "output": 1058.5,
+      "hex_data": {
+        "trip_days": "9",
+        "miles": "BF",
+        "receipts": "44456148",
+        "output": "44845000",
+        "combined": "9BF4445614844845000"
+      }
+    },
+    {
+      "case_index": 942,
+      "strange_patterns": [
+        "Palindrome: 8448",
+        "Palindrome: 4884"
+      ],
+      "input": {
+        "trip_duration_days": 3,
+        "miles_traveled": 280,
+        "total_receipts_amount": 1090.37
+      },
+      "output": 1256.92,
+      "hex_data": {
+        "trip_days": "3",
+        "miles": "118",
+        "receipts": "44884BD7",
+        "output": "449D1D71",
+        "combined": "311844884BD7449D1D71"
+      }
+    },
+    {
+      "case_index": 944,
+      "strange_patterns": [
+        "Palindrome: A44A"
+      ],
+      "input": {
+        "trip_duration_days": 10,
+        "miles_traveled": 498,
+        "total_receipts_amount": 992.86
+      },
+      "output": 1395.03,
+      "hex_data": {
+        "trip_days": "A",
+        "miles": "1F2",
+        "receipts": "4478370A",
+        "output": "44AE60F6",
+        "combined": "A1F24478370A44AE60F6"
+      }
+    },
+    {
+      "case_index": 948,
+      "strange_patterns": [
+        "Palindrome: A444A"
+      ],
+      "input": {
+        "trip_duration_days": 4,
+        "miles_traveled": 932,
+        "total_receipts_amount": 1287.34
+      },
+      "output": 1513.28,
+      "hex_data": {
+        "trip_days": "4",
+        "miles": "3A4",
+        "receipts": "44A0EAE1",
+        "output": "44BD28F6",
+        "combined": "43A444A0EAE144BD28F6"
+      }
+    },
+    {
+      "case_index": 950,
+      "strange_patterns": [
+        "Palindrome: 2112"
+      ],
+      "input": {
+        "trip_duration_days": 2,
+        "miles_traveled": 274,
+        "total_receipts_amount": 888.24
+      },
+      "output": 917.79,
+      "hex_data": {
+        "trip_days": "2",
+        "miles": "112",
+        "receipts": "445E0F5C",
+        "output": "4465728F",
+        "combined": "2112445E0F5C4465728F"
+      }
+    },
+    {
+      "case_index": 954,
+      "strange_patterns": [
+        "Palindrome: B44B"
+      ],
+      "input": {
+        "trip_duration_days": 6,
+        "miles_traveled": 840,
+        "total_receipts_amount": 870.82
+      },
+      "output": 1496.46,
+      "hex_data": {
+        "trip_days": "6",
+        "miles": "348",
+        "receipts": "4459B47B",
+        "output": "44BB0EB8",
+        "combined": "63484459B47B44BB0EB8"
+      }
+    },
+    {
+      "case_index": 964,
+      "strange_patterns": [
+        "Palindrome: 4DD4"
+      ],
+      "input": {
+        "trip_duration_days": 12,
+        "miles_traveled": 466,
+        "total_receipts_amount": 1291.33
+      },
+      "output": 1770.37,
+      "hex_data": {
+        "trip_days": "C",
+        "miles": "1D2",
+        "receipts": "44A16A8F",
+        "output": "44DD4BD7",
+        "combined": "C1D244A16A8F44DD4BD7"
+      }
+    },
+    {
+      "case_index": 971,
+      "strange_patterns": [
+        "Palindrome: 44744"
+      ],
+      "input": {
+        "trip_duration_days": 11,
+        "miles_traveled": 1095,
+        "total_receipts_amount": 1071.83
+      },
+      "output": 2159.33,
+      "hex_data": {
+        "trip_days": "B",
+        "miles": "447",
+        "receipts": "4485FA8F",
+        "output": "4506F548",
+        "combined": "B4474485FA8F4506F548"
+      }
+    },
+    {
+      "case_index": 985,
+      "strange_patterns": [
+        "Palindrome: 4554"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 1109,
+        "total_receipts_amount": 2397.29
+      },
+      "output": 1917.57,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "455",
+        "receipts": "4515D4A4",
+        "output": "44EFB23D",
+        "combined": "74554515D4A444EFB23D"
+      }
+    },
+    {
+      "case_index": 988,
+      "strange_patterns": [
+        "Palindrome: 3BB3"
+      ],
+      "input": {
+        "trip_duration_days": 7,
+        "miles_traveled": 309,
+        "total_receipts_amount": 1021.75
+      },
+      "output": 1309.85,
+      "hex_data": {
+        "trip_days": "7",
+        "miles": "135",
+        "receipts": "447F7000",
+        "output": "44A3BB33",
+        "combined": "7135447F700044A3BB33"
+      }
+    },
+    {
+      "case_index": 993,
+      "strange_patterns": [
+        "Palindrome: 33933"
+      ],
+      "input": {
+        "trip_duration_days": 5,
+        "miles_traveled": 567,
+        "total_receipts_amount": 193.11
+      },
+      "output": 718.3,
+      "hex_data": {
+        "trip_days": "5",
+        "miles": "237",
+        "receipts": "43411C29",
+        "output": "44339333",
+        "combined": "523743411C2944339333"
+      }
+    }
+  ],
+  "summary": {
+    "total_cases_analyzed": 1000,
+    "target_pattern_matches_count": 0,
+    "strange_hex_cases_count": 191
+  }
+}

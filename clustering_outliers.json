@@ -1,0 +1,479 @@
+[
+  {
+    "case_index": 151,
+    "method": "DBSCAN",
+    "days": 4,
+    "miles": 69,
+    "receipts": 2321.49,
+    "reimbursement": 322.0,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 366,
+    "method": "DBSCAN",
+    "days": 11,
+    "miles": 740,
+    "receipts": 1171.99,
+    "reimbursement": 902.09,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 519,
+    "method": "DBSCAN",
+    "days": 14,
+    "miles": 481,
+    "receipts": 939.99,
+    "reimbursement": 877.17,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 547,
+    "method": "DBSCAN",
+    "days": 8,
+    "miles": 482,
+    "receipts": 1411.49,
+    "reimbursement": 631.81,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 625,
+    "method": "DBSCAN",
+    "days": 14,
+    "miles": 94,
+    "receipts": 105.94,
+    "reimbursement": 1180.63,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 683,
+    "method": "DBSCAN",
+    "days": 8,
+    "miles": 795,
+    "receipts": 1645.99,
+    "reimbursement": 644.69,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 710,
+    "method": "DBSCAN",
+    "days": 5,
+    "miles": 516,
+    "receipts": 1878.49,
+    "reimbursement": 669.85,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 995,
+    "method": "DBSCAN",
+    "days": 1,
+    "miles": 1082,
+    "receipts": 1809.49,
+    "reimbursement": 446.94,
+    "outlier_score": 1.0
+  },
+  {
+    "case_index": 645,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 1153,
+    "receipts": 346.58,
+    "reimbursement": 1292.93,
+    "outlier_score": 2.243007263902305
+  },
+  {
+    "case_index": 350,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 112,
+    "receipts": 2299.56,
+    "reimbursement": 1807.67,
+    "outlier_score": 2.2297143397450934
+  },
+  {
+    "case_index": 387,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 1100,
+    "receipts": 237.69,
+    "reimbursement": 1265.57,
+    "outlier_score": 2.202616364312786
+  },
+  {
+    "case_index": 406,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 191,
+    "receipts": 2442.76,
+    "reimbursement": 1798.47,
+    "outlier_score": 2.1940919397352183
+  },
+  {
+    "case_index": 916,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 1204,
+    "receipts": 24.47,
+    "reimbursement": 1344.17,
+    "outlier_score": 2.1831091910688403
+  },
+  {
+    "case_index": 785,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 1020,
+    "receipts": 510.33,
+    "reimbursement": 1406.95,
+    "outlier_score": 2.129360232034021
+  },
+  {
+    "case_index": 979,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 145,
+    "receipts": 2202.42,
+    "reimbursement": 1716.13,
+    "outlier_score": 2.1180174420968845
+  },
+  {
+    "case_index": 816,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 1199,
+    "receipts": 493.0,
+    "reimbursement": 1634.13,
+    "outlier_score": 2.105971842264446
+  },
+  {
+    "case_index": 894,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 18,
+    "receipts": 2461.37,
+    "reimbursement": 1556.78,
+    "outlier_score": 2.0751006703194745
+  },
+  {
+    "case_index": 768,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 125,
+    "receipts": 2004.61,
+    "reimbursement": 1721.56,
+    "outlier_score": 2.066792154304304
+  },
+  {
+    "case_index": 339,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 1138,
+    "receipts": 518.18,
+    "reimbursement": 1696.86,
+    "outlier_score": 2.055941187345966
+  },
+  {
+    "case_index": 345,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 81,
+    "receipts": 2485.34,
+    "reimbursement": 1589.65,
+    "outlier_score": 2.0432354980629954
+  },
+  {
+    "case_index": 871,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 59,
+    "receipts": 2247.39,
+    "reimbursement": 1629.92,
+    "outlier_score": 1.9631557185835757
+  },
+  {
+    "case_index": 765,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 46,
+    "receipts": 2077.07,
+    "reimbursement": 1666.29,
+    "outlier_score": 1.9415948195582162
+  },
+  {
+    "case_index": 364,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 247,
+    "receipts": 2339.61,
+    "reimbursement": 1705.9,
+    "outlier_score": 1.9352695124098367
+  },
+  {
+    "case_index": 453,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 889,
+    "receipts": 232.72,
+    "reimbursement": 1394.38,
+    "outlier_score": 1.9278987070658324
+  },
+  {
+    "case_index": 221,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 47,
+    "receipts": 1667.14,
+    "reimbursement": 1745.18,
+    "outlier_score": 1.9264083125300886
+  },
+  {
+    "case_index": 152,
+    "method": "K-means_distance",
+    "days": 11,
+    "miles": 1179,
+    "receipts": 31.36,
+    "reimbursement": 1550.55,
+    "outlier_score": 1.9202882549724598
+  },
+  {
+    "case_index": 767,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 999,
+    "receipts": 619.42,
+    "reimbursement": 1510.57,
+    "outlier_score": 1.9099093332780688
+  },
+  {
+    "case_index": 848,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 158,
+    "receipts": 2195.67,
+    "reimbursement": 1625.46,
+    "outlier_score": 1.8734794943514046
+  },
+  {
+    "case_index": 566,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 1077,
+    "receipts": 32.55,
+    "reimbursement": 1387.43,
+    "outlier_score": 1.8577108378896283
+  },
+  {
+    "case_index": 638,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 1135,
+    "receipts": 475.95,
+    "reimbursement": 1447.39,
+    "outlier_score": 1.8567579626598685
+  },
+  {
+    "case_index": 627,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 267,
+    "receipts": 2090.21,
+    "reimbursement": 1968.4,
+    "outlier_score": 1.856115250398412
+  },
+  {
+    "case_index": 479,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 767,
+    "receipts": 186.47,
+    "reimbursement": 1292.77,
+    "outlier_score": 1.8460048408693588
+  },
+  {
+    "case_index": 356,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 1139,
+    "receipts": 124.65,
+    "reimbursement": 1314.3,
+    "outlier_score": 1.8406777136738384
+  },
+  {
+    "case_index": 758,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 893,
+    "receipts": 19.76,
+    "reimbursement": 570.71,
+    "outlier_score": 1.8234908878233942
+  },
+  {
+    "case_index": 926,
+    "method": "K-means_distance",
+    "days": 11,
+    "miles": 67,
+    "receipts": 2455.53,
+    "reimbursement": 1572.91,
+    "outlier_score": 1.8195916805198245
+  },
+  {
+    "case_index": 203,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 1065,
+    "receipts": 203.2,
+    "reimbursement": 1408.25,
+    "outlier_score": 1.7978114663923348
+  },
+  {
+    "case_index": 898,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 1092,
+    "receipts": 390.55,
+    "reimbursement": 589.11,
+    "outlier_score": 1.7976916656158657
+  },
+  {
+    "case_index": 810,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 774,
+    "receipts": 206.45,
+    "reimbursement": 1110.0,
+    "outlier_score": 1.7622767043389589
+  },
+  {
+    "case_index": 875,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 8,
+    "receipts": 78.44,
+    "reimbursement": 713.71,
+    "outlier_score": 1.761083468722702
+  },
+  {
+    "case_index": 760,
+    "method": "K-means_distance",
+    "days": 8,
+    "miles": 1142,
+    "receipts": 776.74,
+    "reimbursement": 1827.44,
+    "outlier_score": 1.7235973141066425
+  },
+  {
+    "case_index": 74,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 815,
+    "receipts": 97.89,
+    "reimbursement": 539.36,
+    "outlier_score": 1.7172819986006111
+  },
+  {
+    "case_index": 695,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 269,
+    "receipts": 1349.61,
+    "reimbursement": 1832.34,
+    "outlier_score": 1.7057381193408099
+  },
+  {
+    "case_index": 704,
+    "method": "K-means_distance",
+    "days": 11,
+    "miles": 24,
+    "receipts": 2029.04,
+    "reimbursement": 1569.37,
+    "outlier_score": 1.684331887584186
+  },
+  {
+    "case_index": 677,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 63,
+    "receipts": 107.92,
+    "reimbursement": 710.25,
+    "outlier_score": 1.6827365736698967
+  },
+  {
+    "case_index": 914,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 931,
+    "receipts": 327.97,
+    "reimbursement": 609.73,
+    "outlier_score": 1.6747727652865674
+  },
+  {
+    "case_index": 420,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 1060,
+    "receipts": 501.67,
+    "reimbursement": 658.14,
+    "outlier_score": 1.6739872363797035
+  },
+  {
+    "case_index": 287,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 64,
+    "receipts": 1641.01,
+    "reimbursement": 1710.72,
+    "outlier_score": 1.6725195118102394
+  },
+  {
+    "case_index": 297,
+    "method": "K-means_distance",
+    "days": 7,
+    "miles": 1176,
+    "receipts": 2489.13,
+    "reimbursement": 1921.16,
+    "outlier_score": 1.6655209025956625
+  },
+  {
+    "case_index": 326,
+    "method": "K-means_distance",
+    "days": 7,
+    "miles": 1089,
+    "receipts": 1026.25,
+    "reimbursement": 2132.85,
+    "outlier_score": 1.663825042281039
+  },
+  {
+    "case_index": 518,
+    "method": "K-means_distance",
+    "days": 1,
+    "miles": 797,
+    "receipts": 126.8,
+    "reimbursement": 543.18,
+    "outlier_score": 1.662559980432453
+  },
+  {
+    "case_index": 809,
+    "method": "K-means_distance",
+    "days": 13,
+    "miles": 137,
+    "receipts": 1505.66,
+    "reimbursement": 1777.72,
+    "outlier_score": 1.6620776283603202
+  },
+  {
+    "case_index": 949,
+    "method": "K-means_distance",
+    "days": 14,
+    "miles": 343,
+    "receipts": 2013.4,
+    "reimbursement": 1839.05,
+    "outlier_score": 1.629263249696244
+  },
+  {
+    "case_index": 661,
+    "method": "K-means_distance",
+    "days": 12,
+    "miles": 947,
+    "receipts": 193.05,
+    "reimbursement": 1225.63,
+    "outlier_score": 1.62605930836661
+  }
+]
