@@ -11,7 +11,7 @@ echo "📝 Output will be saved to private_results.txt"
 echo ""
 
 # Run the prediction script and redirect output to the results file
-python3 predict_with_naive_model.py > private_results.txt
+python3 predict_private_with_trained_model.py > private_results.txt
 
 echo ""
 echo "✅ Done! Results saved to private_results.txt" 
