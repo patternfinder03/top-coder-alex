@@ -3,7 +3,7 @@
 
 # Alex notes:
 
-I used a lot of experimentation automation to try and find results combined with my initial intuitons on how to solve the problem. I have a second repo where I primarily tried focusing on recreating the legacy formula (which did not work). I did a lot of experimenting on trying to recreate the bugs the legacy code had and found some promise with bitwise information / flips (), but was getting stuck on cases where the receipts-per-miles was very high.
+I used a lot of experimentation automation to try and find results combined with my initial intuitons on how to solve the problem. I have a second repo where I primarily tried focusing on recreating the legacy formula (which did not work) and a third where I had a lot of experiments running. I did a lot of experimenting on trying to recreate the bugs the legacy code had and found some promise with bitwise information / flips (), but was getting stuck on cases where the receipts-per-miles was very high.
 
 Overall, I think I could've squeezed out a second place. On 5-fold CV I had roughly a 6.25K score and most certainly overfit on the final set. In the final model there were 35 features (some scrambled together last second) which most likely was not the best move. I had GPT generate a summary of the top 20 features by importantance which you can see here. I found some interesting ones in addition to some of the more basic ones that I think most people found. if I tinkered with/explored further you might find some results.
 
