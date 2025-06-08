@@ -1,4 +1,74 @@
-# Top Coder Challenge: Black Box Legacy Reimbursement System
+# Top Coder Challenge: Black Box Legacy Reimbursement System - 8th place code
+
+
+# Alex notes:
+
+I used a lot of experimentation automation to try and find results combined with my initial intuitons on how to solve the problem. I have a second repo where I primarily tried focusing on recreating the legacy formula (which did not work). I did a lot of experimenting on trying to recreate the bugs the legacy code had and found some promise with bitwise information / flips (), but was getting stuck on cases where the receipts-per-miles was very high.
+
+Overall, I think I could've squeezed out a second place. On 5-fold CV I had roughly a 6.25K score and most certainly overfit on the final set. In the final model there were 35 features (some scrambled together last second) which most likely not the best move. I had GPT generate a summary of the top 20 features by importantance which you can see here. I found some interesting ones in addition to some of the more basic ones that I think most people found. if I tinkered with/explored further you might find some results.
+
+If you want to tinker with/run mine its in the predict_single_naive.py. The rest of the code is from the experimentation and can be largely ignored. 
+
+If you wanna talk about the comp just hit me on twitter @alexmaxxing
+
+(GPT SUMMARY)
+## Top 20 Feature Engineering Breakdown
+Your feature engineering captures the complex business logic of this 60-year-old legacy system. Here's what each feature represents:
+1. Core Foundation Features (Ranks 1, 5, 11)
+- days (#1): Raw trip duration - the most important input
+- miles (#5): Raw miles traveled
+- receipts (#11): Raw receipt amount
+
+These are your base inputs, with days being most critical because it drives per-diem calculations.
+
+2. Business Logic Reconstruction (Ranks 2, 14)
+- cap_est (#2): Your estimate of the system's internal cap formula: 80 * days + 0.5 * miles
+- over_cap_amt (#14): How much receipts exceed this estimated cap
+
+This reveals you discovered the legacy system has an internal reimbursement ceiling based on both trip length and distance.
+
+3. Non-Linear Receipt Processing (Ranks 3, 4, 6, 12)
+- log_receipts (#3): Captures diminishing returns on high receipt amounts
+- price_ending_49_99 (#4): Binary flag for receipts ending in .49/.99 - suggests legacy pricing patterns
+- receipt_bins (#6): Categorical receipt tiers (thresholds at $300, $500, $700, $1000, $1500, $2000, $2500)
+- sqrt_receipts (#12): Another non-linear transformation for receipt processing
+
+The high importance of price_ending_49_99 suggests the old system had special handling for common retail price endings.
+
+4. High-Value Trip Detection (Rank 10)
+- receipts_mask (#10): Receipts with high receipts-per-mile cases masked to 0
+
+This is your "router flag" - when receipts/mile > 20, you force the model to ignore the raw receipt amount, suggesting these cases follow completely different logic.
+
+5. Complex Interaction Terms (Ranks 7, 8)
+- days_miles_receipts (#7): Three-way interaction capturing complex interdependencies
+- days_receipts (#8): Two-way interaction between trip length and spending
+
+These capture the non-additive nature of the legacy calculations.
+
+6. Custom Travel Metrics (Ranks 9, 15)
+- travel_impedance_index (#9): Your custom composite score: 0.54*days + 0.33*(miles/100) + 0.13*log(receipts+1)
+- miles_per_day (#15): Travel intensity metric
+
+The Travel Impedance Index is particularly clever - it weights trip characteristics in a way that apparently mirrors the legacy system's internal scoring.
+
+7. Regime Classification (Ranks 16-20)
+- log_mileage_ratio (#16): Log of receipts/(0.655 * miles) - mileage reimbursement rate
+- log_perdiem_ratio (#17): Log of receipts/(80 * days) - per-diem rate
+- mileage_ratio (#18): Raw receipts-to-mileage ratio
+- perdiem_ratio (#19): Raw receipts-to-per-diem ratio
+- regime_0 (#20): One-hot encoding for A-perdiem regime
+
+These reveal you identified the system processes different trip types through separate calculation paths:
+A-perdiem: Low mileage, high receipts (luxury accommodations)
+B-mileage: High mileage, low receipts (road trips)
+C-mixed: Everything else
+
+8. Categorical Encoding (Rank 13)
+- day_bins (#13): Trip duration categories with thresholds at [1, 4, 8, 12, 16, 20, 24, 28] days
+This suggests the legacy system treats trip lengths categorically rather than continuously.
+
+
 
 **Reverse-engineer a 60-year-old travel reimbursement system using only historical data and employee interviews.**
 
